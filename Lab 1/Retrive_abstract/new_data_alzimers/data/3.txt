@@ -1,0 +1,12 @@
+﻿No prior study to our knowledge has examined the joint contribution of a polygenic risk score (PRS), mammographic density (MD), and postmenopausal endogenous hormone levels-all well-confirmed risk factors for invasive breast cancer-to existing breast cancer risk prediction models..
+We conducted a nested case-control study within the prospective Nurses' Health Study and Nurses' Health Study II including 4,006 cases and 7,874 controls ages 34-70 years up to 1 June 2010.
+We added a breast cancer PRS using 67 single nucleotide polymorphisms, MD, and circulating testosterone, estrone sulfate, and prolactin levels to existing risk models.
+We calculated area under the curve (AUC), controlling for age and stratified by menopausal status, for the 5-year absolute risk of invasive breast cancer.
+We estimated the population distribution of 5-year predicted risks for models with and without biomarkers.
+For the Gail model, the AUC improved (p-values < 0.001) from 55.9 to 64.1 (8.2 units) in premenopausal women (Gail + PRS + MD), from 55.5 to 66.0 (10.5 units) in postmenopausal women not using hormone therapy (HT) (Gail + PRS + MD + all hormones), and from 58.0 to 64.9 (6.9 units) in postmenopausal women using HT (Gail + PRS + MD + prolactin).
+For the Rosner-Colditz model, the corresponding AUCs improved (p-values < 0.001) by 5.7, 6.2, and 6.5 units.
+For estrogen-receptor-positive tumors, among postmenopausal women not using HT, the AUCs improved (p-values < 0.001) by 14.3 units for the Gail model and 7.3 units for the Rosner-Colditz model.
+Additionally, the percentage of 50-year-old women predicted to be at more than twice 5-year average risk (≥2.27%) was 0.2% for the Gail model alone and 6.6% for the Gail + PRS + MD + all hormones model.
+Limitations of our study included the limited racial/ethnic diversity of our cohort, and that general population exposure distributions were unavailable for some risk factors..
+In this study, the addition of PRS, MD, and endogenous hormones substantially improved existing breast cancer risk prediction models.
+Further studies will be needed to confirm these findings and to determine whether improved risk prediction models have practical value in identifying women at higher risk who would most benefit from chemoprevention, screening, and other risk-reducing strategies.

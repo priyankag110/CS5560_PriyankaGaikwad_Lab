@@ -1,0 +1,127 @@
+import edu.stanford.nlp.coref.CorefCoreAnnotations;
+import edu.stanford.nlp.coref.data.CorefChain;
+import edu.stanford.nlp.ling.CoreAnnotations;
+import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.pipeline.Annotation;
+import edu.stanford.nlp.pipeline.StanfordCoreNLP;
+import edu.stanford.nlp.semgraph.SemanticGraph;
+import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations;
+import edu.stanford.nlp.trees.Tree;
+import edu.stanford.nlp.trees.TreeCoreAnnotations;
+import edu.stanford.nlp.util.CoreMap;
+import org.apache.commons.lang3.StringUtils;
+
+
+import java.io.File;
+import java.io.PrintWriter;
+import java.nio.charset.Charset;
+import java.util.*;
+
+
+/**
+ * Created by Mayanka on 13-Jun-16.
+ */
+public class Main {
+
+    public static void main(String args[]) {
+
+        String[] abstracts = new String[10];
+
+        abstracts[0] = "EgKI-1, a member of the Kunitz type protease inhibitor family, is highly expressed by the oncosphere of the canine tapeworm Echinococcus granulosus, the stage that is infectious to humans and ungulates, giving rise to a hydatid cyst localized to the liver and other organs. Larval protoscoleces, which develop within the hydatid cyst, have been shown to possess anti-cancer properties, although the precise molecules involved have not been identified. We show that recombinant EgKI-1 inhibits the growth and migration of a range of human cancers including breast, melanoma and cervical cancer cell lines in a dose-dependent manner in vitro without affecting normal cell growth. Furthermore, EgKI-1 treatment arrested the cancer cell growth by disrupting the cell cycle and induced apoptosis of cancer cells in vitro. An in vivo model of triple negative breast cancer (MDA-MB-231) in BALB/c nude mice showed significant tumor growth reduction in EgKI-1-treated mice compared with controls. These findings indicate that EgKI-1 shows promise for future development as an anti-cancer therapeutic.";
+        abstracts[1] = "To determine whether there are changes in sexuality after breast cancer, to better understand the sexual function of women with breast cancer, and to investigate the potential relationship between sexual dysfunction and socio-demographic and clinical variables. This study included 514 women with breast cancer between 21- and 66-years-old. The cases were gathered between June 2016 and January 2017. The instruments used were the questionnaire on Women's Sexual Function and a questionnaire to collect socio-demographic and clinical data. The average age (± standard deviation, SD) of participants was 46.34 ± 8.28 years. Their average age at date of diagnosis was 42.26 ± 8.56 years, and the average time suffering from cancer was 4.05 ± 5.23 years. There were significant differences (p = 0.002) in the presence of sexual dysfunction before (32.1%) and after (91.2%) cancer. The primary sexual dysfunctions were due to penetration pain (50.6%), lubrication (50.6%), dysfunctional desire (44.6%), and dysfunctional excitement (44.6%). Two-thirds of participants were satisfied with their sexual relations. The women who presented most sexual dysfunction were those that had a bilateral mastectomy (p = 0.009) and those who received chemotherapy, radiotherapy and hormonal-therapy (p < 0.001). Sexual function was changed in women with breast cancer. The main problems included penetration pain, desire, lubrication, and dysfunctional excitement. It is important that Health professionals recognize which circumstances influence the sexual function of women with breast cancer and to make interventions that facilitate sexual adjustment.";
+        abstracts[2] = "The aim of the present work is to assess the Objective Breast Cosmesis Scale (OBCS) in a patient cohort that was treated in two hospitals. Their treatment-related cosmetic changes were recorded on nonstandardized photographs. Nineteen female patients were enrolled in two radiation oncology centers (Nice, France, and Perugia, Italy). All patients had undergone breast-conserving surgery (BCS) and received adjuvant accelerated partial breast irradiation using interstitial fractionated multicatheter high-dose-rate brachytherapy. One photograph before and another after accelerated partial breast irradiation was taken for each patient to record changes in breast cosmesis. Using the OBCS, before and after photographs were analyzed by measuring distances between anatomic features. OBCS scores from four doctors (two males [one radiation oncologist and one post-grad trainee] and two females [one radiation oncologist and one post-grad trainee]) were compared. Agreement was high between trainees and specialist, and males and females before and after treatment. The intraclass correlation coefficient ranged from 0.867 to 0.950 before treatment and from 0.876 to 0.952 afterward. The coefficient of variation ranged from 12% to 26.5% before treatment, and from 13% to 21.4% afterward. The OBCS is easy, time-efficient, reproducible, cost-effective, and reliable. Its potential practical applications merit further investigation in future studies.";
+        abstracts[3] = "Insulin resistance associated with hyperinsulinaemia and overexpression of insulin receptors (IRs) have been intricately linked to the pathogenesis and treatment outcomes of the breast carcinoma. Studies have revealed that upregulated expression of IRs in breast cancer pathogenesis regulates several aspects of the malignant phenotype, including cell proliferation and metastasis. This study was aimed to investigate the pivotal role of an IR antagonist S961 on IR signalling and other biological parameters in MCF-7, MDA-MB-231 and T47D cell lines. The effect of human insulin and S961 on growth, proliferation rate and clonogenic potential of breast cancer cells was evaluated by MTT [3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazoliumbromide] assay and clonogenic assay. The mRNA expression of IR isoforms (IR-A and IR-B) was measured in the breast carcinoma cells using quantitative PCR. The study revealed that breast cancer cells predominantly expressed IR-A isoform and showed extensive growth and proliferation owing to IR overexpression. It was found that S961 downregulated the IRs (IR-A and IR-B) with nanomolar dose and efficiently blocked expression of IRs even in the presence of insulin. IR mRNA expression levels were significantly downregulated in the continued presence of S961. S961 also inhibited cellular proliferation and colony formation in breast tumour cells. IR antagonist, S961 showed distinct antagonism in vitro and appeared to be a powerful therapeutic modality that might provide insight into the pathogenesis of impaired IR signalling.";
+        abstracts[4] = "The mechanisms underlying cognitive decline after radiotherapy not directed at brain areas remains unclear. We previously suggested that adjuvant breast radiotherapy in breast conservation therapy could lower memory function soon after therapy, and that the process might be partially mediated by plasma interleukin (IL)-6 levels. The present study investigated how that relationship changes longitudinally. We performed the Wechsler Memory Scale-Revised (WMS-R) test and measured plasma IL-6 levels for 47 breast cancer surgical patients within 1 year after the initial therapy (study 1) and more than 2 years after study 1 (study 2). We also performed 2 × 2 mixed [the radiotherapy group (n = 25) or the no-radiotherapy group (n = 22) × study 1 or study 2] analysis of covariance on the WMS-R indices and plasma IL-6 levels. The association between changes in plasma IL-6 levels and changes in the WMS-R indices between the two studies was evaluated using Pearson's correlation coefficient. The Immediate Verbal Memory Index was significantly higher in study 2. The Delayed Recall Index was significantly higher in study 2 and significantly lower in the radiotherapy group only in study 1. There was a significant correlation between changes in plasma IL-6 levels and changes only in the Delayed Recall Index of the WMS-R. Memory decline in breast cancer patients soon after adjuvant breast radiotherapy was restored approximately 3 years after treatment, and decreased plasma IL-6 levels might be involved in the recovery process.";
+        abstracts[5] = "To describe the mortality experience of women who die of breast cancer in the 20-year period post-diagnosis using various metrics, including annual mortality rates, Kaplan-Meier survival curves and time-to-death histograms. We generated three visual representations of SEER-based and hospital-based breast cancer patient cohorts using three different metrics of mortality. The greatest impact of most prognostic factors was on the probability of latent metastases present after treatment, but for some factors the primary impact was on the time to death for those women with metastases. The use of time-to-death statistics to display mortality benefits for treated versus untreated women helps facilitate the distinction between treatments which increase the likelihood of cure and treatments that delay cancer growth.";
+        abstracts[6] = "Tumor-associated macrophages (TAMs) have been implicated in the promotion of breast cancer growth and metastasis, and multiple TAM-secreted cytokines have been identified associating with poor clinical outcomes. However, the therapeutic targets existing in the loop between TAMs and cancer cells are still required for further investigation. Here in, cytokine array validated that C-X-C motif chemokine ligand 1 (CXCL1) is the most abundant chemokine secreted by TAMs, and CXCL1 can promote breast cancer migration and invasion ability, as well as epithelial-mesenchymal transition in both mouse and human breast cancer cells. QPCR screening further validated SOX4 as the highest responsive gene following CXCL1 administration. Mechanistic study revealed that CXCL1 binds to SOX4 promoter and activates its transcription via NF-κB pathway. In vivo breast cancer xenografts demonstrated that CXCL1 silencing in TAMs results in a significant reduction in breast cancer growth and metastatic burden. Bioinformatic analysis and clinical investigation finally suggested that high CXCL1 expression is significantly correlated with breast cancer lymph node metastasis, poor overall survival and basal-like subtype. Taken together, our results indicated that TAMs/CXCL1 promotes breast cancer metastasis via NF-κB/SOX4 activation, and CXCL1-based therapy might become a novel strategy for breast cancer metastasis prevention.";
+        abstracts[7] = "Although eribulin mesylate(ERI)has been approved for metastatic breast cancer, its efficacy and safety in combination with other chemotherapeutic agents have not been established. To investigate the tolerability of combination therapy with ERI and gemcitabine(GEM), we conducted a phase I clinical study in Japanese patients with metastatic breast cancer. The initial doses(Level 0)of ERI and GEM were 1.1mg/m2 and 800 mg/m2, respectively. When tolerability to Level 0 doses was confirmed, the doses were escalated to 1.4mg/m2 for ERI and 800 mg/m2 for GEM(Level 1). Seven patients were enrolled in this study; 3 patients received Level 0 doses and the other 4 patients received Level 1 doses. A dose limiting toxicity(DLT)was found in only 1 patient of the Level 1 group(Grade 3 oral mucositis). However, Grade 3 or higher hematological toxicities, including neutropenia, frequently occurred, and hence, this combination therapy was not conducted as scheduled. Thus, maximum tolerated dose(MTD)and recommended dose(RD)for phase II trials were not evaluated in this study. Drugdrug interactions between ERI and GEM were not observed. In conclusion, it was difficult to continue the combination therapy for patients with advanced recurrent breast cancer due to hematological toxicities. There is little possibility for the combination therapy with ERI and GEM at the specific doses to be regarded as a new treatment option for Japanese patients.";
+        abstracts[8] = "Circular RNAs (circRNAs) are a type of noncoding RNAs with a closed loop structure. With the development of high-throughput sequencing, massive circRNAs have been discovered in tumorous tissues. Emerging evidence suggests that the biological functions of circRNAs including serving as ceRNAs or miRNA sponges, interacting with proteins, regulating gene transcription and translation, suggesting that circRNAs will be novel biomarkers and targets for the diagnosis and prognosis of diseases. Breast cancer is the most frequently occurring cancer and the leading cause of cancer-related death among women worldwide. It is vital to understand the molecular pathways involved in the pathogenesis of proliferation and progression. In this review, we summarize the current knowledge on human circRNAs and their potential clinical implications on breast cancer.";
+        abstracts[9] = "There is evidence suggesting that smoking and obesity prior to a breast cancer diagnosis is associated with poorer outcomes. In this study, we investigate the associations between smoking and obesity prior to a breast cancer diagnosis and the presence of lymph node metastases at diagnosis. Women with stage I-III breast cancer (n = 3,304) were identified from the National Cancer Institute's Prostate, Lung, Colorectal and Ovarian Cancer Screening Trial. Univariable and multivariable log-binomial models were used to estimate relative risks (RR) and 95% confidence intervals (CIs) for associations between lymph node positive breast cancer and; i) smoking, and ii) obesity prior to diagnosis. Pre-diagnostic smoking/obesity was not associated with lymph node metastasis at diagnosis in multivariable analyses; (RR 0.82, 95%CI 0.61, 1.10) and (RR 0.95, 95% CI 0.81, 1.12), respectively. Obesity and smoking information was recorded a number of years prior to breast cancer diagnosis, therefore these findings should to be replicated in a larger cohort of women, with more detailed smoking and obesity information.";
+        // creates a StanfordCoreNLP object, with POS tagging, lemmatization, NER, parsing, and coreference resolution
+
+        Properties props = new Properties();
+        props.setProperty("annotators", "tokenize, ssplit, pos, lemma, ner, parse, dcoref");
+        StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
+        int i=1;
+        for (String s: abstracts) {
+
+            //Clearning vars
+            Set<String> nounsList = new HashSet<String>();
+            Set<String> verbsList = new HashSet<String>();
+            Set<String> nersList = new HashSet<String>();
+
+            System.out.println(("Processing File "+ i));
+            i=i+1;
+// read some text in the text variable
+            String text = s;
+
+
+// create an empty Annotation just with the given text
+            Annotation document = new Annotation(text);
+
+// run all Annotators on this text
+            pipeline.annotate(document);
+
+            // these are all the sentences in this document
+// a CoreMap is essentially a Map that uses class objects as keys and has values with custom types
+            List<CoreMap> sentences = document.get(CoreAnnotations.SentencesAnnotation.class);
+
+            for (CoreMap sentence : sentences) {
+                // traversing the words in the current sentence
+                // a CoreLabel is a CoreMap with additional token-specific methods
+                for (CoreLabel token : sentence.get(CoreAnnotations.TokensAnnotation.class)) {
+
+                    //System.out.println("\n" + token);
+
+                    // this is the text of the token
+                    String word = token.get(CoreAnnotations.TextAnnotation.class);
+                    // System.out.println("Text Annotation");
+                    // System.out.println(token + ":" + word);
+                    // this is the POS tag of the token
+
+                    String lemma = token.get(CoreAnnotations.LemmaAnnotation.class);
+                    //System.out.println("Lemma Annotation");
+                    //System.out.println(token + ":" + lemma);
+                    // this is the Lemmatized tag of the token
+
+
+                    String pos = token.get(CoreAnnotations.PartOfSpeechAnnotation.class);
+                    //System.out.println("POS");
+                    //System.out.println(token + ":" + pos);
+                    if (pos.contains("NN")) {
+                        nounsList.add(word);
+
+                    } else if (pos.contains(("VB"))) {
+                        verbsList.add(word);
+                    }
+
+                    // this is the NER label of the token
+                    String ne = token.get(CoreAnnotations.NamedEntityTagAnnotation.class);
+                    // System.out.println("NER");
+                    //System.out.println(token + ":" + ne);
+                    if (ne.length() > 1) {
+                        nersList.add(word + "-" + ne);
+                    }
+                }
+
+                // this is the parse tree of the current sentence
+                Tree tree = sentence.get(TreeCoreAnnotations.TreeAnnotation.class);
+                // System.out.println(tree);
+                // this is the Stanford dependency graph of the current sentence
+
+
+                Map<Integer, CorefChain> graph =
+                        document.get(CorefCoreAnnotations.CorefChainAnnotation.class);
+                //System.out.println(graph.values().toString());
+            }
+            System.out.println("POS : Noun:" + nounsList.size());
+            System.out.println("POS: Verb:" + verbsList.size());
+            System.out.println("NER : Name:" + nersList.size());
+
+            System.out.println("POS : Nouns:" + StringUtils.join(nounsList, ','));
+            System.out.println("POS: Verb:" + StringUtils.join(verbsList, ','));
+            System.out.println("NER : Name:" + StringUtils.join(nersList, ','));
+
+        }
+    }
+}

@@ -1,0 +1,8 @@
+﻿The cancer cells and stromal cells in tumor microenvironment secrete cytokines and recruit "homing" cells (macrophage, lymphocytes, platelets, etc.).
+Platelets can interact with tumor microenvironment and specifically aggregate at tumor sites.
+Surprising, we observed different "homing" effects of activated platelets in breast cancer model and pancreatic cancer model which is highly related with the blood supply of tumors.
+Besides, platelets targeting magnetic nanoparticles (MNPs) can home to breast cancer but be repelled from pancreatic cancer.
+We observed the targeting effect of MNPs is highly related with the expressions of collagen Ⅰ (marker of extracellular matrix) and CD34 (marker of tumor neovascularization).
+The homing nanoparticles such as platelets targeting MNPs could realize the tumor targeting ability, photo-thermal effect and tumor immunotherapeutic ability in the accessible tumor (e.g.
+breast cancer) but not the hypovascular tumor (e.g.
+pancreatic cancer).

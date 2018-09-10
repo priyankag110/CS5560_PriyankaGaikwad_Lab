@@ -1,0 +1,11 @@
+﻿Fear of cancer recurrence (FCR) is defined as "fear, worry, or concern about cancer returning or progressing".
+To date, there is only one partially validated model of FCR (Lee-Jones et al., 1997), so additional model testing is critical to inform intervention efforts.
+The purpose of this study is to examine the validity of a blended model of FCR that integrates Leventhal's Common Sense Model, Mishel's Uncertainty in Illness Theory, and cognitive theories of worry..
+Participants (n = 106) were women diagnosed with stage I-III breast or gynecological cancer who were enrolled in a Randomized Controlled Trial of a group cognitive-existential intervention for FCR.
+We report data from standardized questionnaires (Fear of Cancer Recurrence Inventory - Severity and Triggers subscales; Illness Uncertainty Scale; perceived risk of recurrence; Intolerance of Uncertainty Scale; Why do people Worry about Health questionnaire; Reassurance-seeking Behaviours subscale of the Health Anxiety Questionnaire, and the Reassurance Questionnaire) that participants completed before randomization.
+Path analyses were used to test the model..
+Following the addition of four paths, the model showed an excellent fit (χ2= 13.39, p=0.20; CFI=0.99; RMSEA=0.06).
+Triggers, perceived risk of recurrence, and illness uncertainty predicted FCR.
+FCR was associated with maladaptive coping.
+Positive beliefs about worrying and intolerance of uncertainty did not predict FCR but led to more maladaptive coping..
+These results provide support for a blended FCR model.

@@ -1,0 +1,6 @@
+Targeted delivery and accumulation of chemotherapeutics to tumor sites is in high demand and extremely challenging for anticancer therapy.
+Studies show that albumin is actively recruited into tumor tissue overexpressing albumin-binding proteins including secreted protein acidic and rich in cysteine (SPARC) and gp60.
+Herein, a novel redox-responsive paclitaxel-loaded micelle system with the modification of ABD035, which specifically and strongly binds to albumin, is designed to combine the strengths of albumin and micelles together for antitumor drug biomimetic delivery.
+The ABD035-modified micelle has a strong binding response to albumin and co-localization of BODIPY-labeled ABD035-modified micelle and SPARC is observed in tumor tissues.
+Furthermore, the ABD035-modified micelle significantly improves the therapeutic effect in the animal model bearing triple negative breast cancer by increasing drug accumulation in tumor tissue, enhancing cell uptake efficiency, rapidly releasing prototype drug under intracellular reductive conditions and increasing tumor cell apoptosis.
+These results together vote the biomimetic delivery of ABD035-modified micelle as a promising strategy for cancer therapy.
