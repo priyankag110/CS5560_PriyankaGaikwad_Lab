@@ -1,0 +1,15 @@
+Patient	Species
+patient	Species
+PATIENTS	Species
+Patients	Species
+tumour	Disease
+Patients	Species
+patient	Species
+patients	Species
+patients	Species
+seroma	Disease
+patients	Species
+patients	Species
+Cancer- and breast cancer	Disease
+patients	Species
+patient	Species

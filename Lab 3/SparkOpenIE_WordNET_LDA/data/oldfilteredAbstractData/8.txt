@@ -1,0 +1,5 @@
+Oestrogen receptor (ER) is expressed in approximately 60%-70% of human breast cancer.
+Clinical trials and retrospective analyses have shown that ER-positive (ER+) tumours are more tolerant to chemotherapeutic drug resistance than ER-negative (ER-) tumours.
+In addition, isobavachalcone (IBC) is known as a kind of phytoestrogen with antitumour effect.
+However, the underlying mechanism of IBC in ER+ breast cancer needs to be elucidated further.
+Our in vitro experiments showed that IBC could attenuate 17β-estradiol (E.

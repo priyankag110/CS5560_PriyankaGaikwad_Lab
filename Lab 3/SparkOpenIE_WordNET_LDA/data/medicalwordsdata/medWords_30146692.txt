@@ -1,0 +1,25 @@
+breast cancer	Disease
+breast cancer	Disease
+death	Disease
+women	Species
+virus	Species
+virus	Species
+cancer	Disease
+virus	Species
+cancer	Disease
+viruses	Species
+virus	Species
+viruses	Species
+cancer	Disease
+cancer	Disease
+bacterial	Species
+viruses	Species
+bacteriophages	Species
+cancer	Disease
+cancer	Disease
+breast cancer xenograft tumors	Disease
+BALB/c	Species
+mice	Species
+bacterial	Species
+viruses	Species
+cancer	Disease

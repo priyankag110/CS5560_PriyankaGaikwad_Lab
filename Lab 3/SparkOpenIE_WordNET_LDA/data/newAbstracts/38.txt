@@ -1,0 +1,10 @@
+Triple-negative breast cancer (TNBC) is a subtype of breast cancer with poor clinical outcome and limited treatment options.
+Lacking molecular targets, chemotherapy is the main adjuvant treatment for TNBC patients.
+To explore potential therapeutic targets for TNBC, we analyzed three microarray datasets (GSE38959, GSE45827, and GSE65194) derived from the Gene Expression Omnibus (GEO) database.
+The GEO2R tool was used to screen out differentially expressed genes (DEGs) between TNBC and normal tissue.
+Gene Ontology function and Kyoto Encyclopedia of Genes and Genomes pathway enrichment analysis were performed using the Database for Annotation, Visualization and Integrated Discovery to identify the pathways and functional annotation of DEGs.
+Protein-protein interaction of these DEGs was analyzed based on the Search Tool for the Retrieval of Interacting Genes database and visualized by Cytoscape software.
+In addition, we used the online Kaplan-Meier plotter survival analysis tool to evaluate the prognostic value of hub genes expression in breast cancer patients.
+A total of 278 upregulated DEGs and 173 downregulated DEGs were identified.
+Among them, ten hub genes with a high degree of connectivity were picked out.
+Overexpression of these hub genes was associated with unfavorable prognosis of breast cancer, especially.

@@ -1,0 +1,9 @@
+﻿Targeted therapy for patients with HER2-positive (HER2+) breast cancer has improved overall survival, but many patients still suffer relapse and death from the disease.
+Intratumor heterogeneity of both estrogen receptor (ER) and HER2 expression has been proposed to play a key role in treatment failure, but little work has been done to comprehensively study this heterogeneity at the single-cell level.
+In this study, we explored the clinical impact of intratumor heterogeneity of ER protein expression, HER2 protein expression, and HER2 gene copy number alterations.
+Using combined immunofluorescence and in situ hybridization on tissue sections followed by a validated computational approach, we analyzed more than 13 000 single tumor cells across 37 HER2+ breast tumors.
+The samples were taken both before and after neoadjuvant chemotherapy plus HER2-targeted treatment, enabling us to study tumor evolution as well.
+We found that intratumor heterogeneity for HER2 copy number varied substantially between patient samples.
+Highly heterogeneous tumors were associated with significantly shorter disease-free survival and fewer long-term survivors.
+Patients for which HER2 characteristics did not change during treatment had a significantly worse outcome.
+This work shows the impact of intratumor heterogeneity in molecular diagnostics for treatment selection in HER2+ breast cancer patients and the power of computational scoring methods to evaluate in situ molecular markers in tissue biopsies.

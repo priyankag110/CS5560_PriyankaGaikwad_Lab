@@ -1,0 +1,24 @@
+Gemcitabine	Chemical
+Patients	Species
+Breast Cancer	Disease
+breast cancer	Disease
+gemcitabine	Chemical
+GEM	Chemical
+patients	Species
+breast cancer	Disease
+GEM	Chemical
+GEM	Chemical
+patients	Species
+patients	Species
+patients	Species
+toxicity	Disease
+patient	Species
+oral mucositis	Disease
+toxicities	Disease
+neutropenia	Disease
+GEM	Chemical
+patients	Species
+breast cancer	Disease
+toxicities	Disease
+GEM	Chemical
+patients	Species

@@ -1,0 +1,30 @@
+ESR1	Gene
+patients	Species
+metastatic breast cancer	Disease
+ESR1	Gene
+estrogen	Chemical
+ER	Gene
+metastatic breast cancer	Disease
+MBC	Disease
+patients	Species
+ESR1	Gene
+MBC	Disease
+patients	Species
+overall survival	Disease
+OS	Disease
+patients	Species
+ER	Gene
+MBC	Disease
+ESR1	Gene
+ESR1	Gene
+OS	Disease
+ESR1	Gene
+ESR1	Gene
+fulvestrant	Chemical
+ESR1	Gene
+D538G	Mutation
+Y537S	Mutation
+ESR1	Gene
+ER	Gene
+MBC	Disease
+patients	Species

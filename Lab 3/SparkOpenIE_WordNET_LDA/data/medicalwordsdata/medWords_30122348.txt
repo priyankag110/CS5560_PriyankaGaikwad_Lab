@@ -1,0 +1,13 @@
+BRCA	Gene
+BRCA 1 and 2	Gene
+PATIENTS	Species
+BRCA1	Gene
+women	Species
+breast/ovarian cancer	Disease
+women	Species
+cancer	Disease
+women	Species
+ovarian cancer	Disease
+patients	Species
+Women	Species
+cancer	Disease

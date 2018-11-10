@@ -1,0 +1,21 @@
+Seroma	Disease
+Seroma	Disease
+healing	Disease
+infection	Disease
+skin flap necrosis	Disease
+patient	Species
+patient	Species
+seroma	Disease
+seroma	Disease
+seroma	Disease
+breast cancer	Disease
+patients	Species
+patients	Species
+Patients	Species
+seroma aspirations	Disease
+patient	Species
+skin infection	Disease
+seroma aspirations	Disease
+patient	Species
+infection	Disease
+patient	Species

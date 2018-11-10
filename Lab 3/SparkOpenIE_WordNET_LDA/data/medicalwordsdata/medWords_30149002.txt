@@ -1,0 +1,43 @@
+FAK	Gene
+imatinib	Chemical
+gastrointestinal stromal tumors	Disease
+imatinib mesylate	Chemical
+gastrointestinal stromal tumor	Disease
+GIST	Disease
+patients	Species
+imatinib	Chemical
+PTPN18	Gene
+imatinib	Chemical
+GIST	Disease
+FAK	Gene
+PTPN18	Gene
+imatinib	Chemical
+GIST	Disease
+FAK	Gene
+PTPN18	Gene
+imatinib	Chemical
+FAK	Gene
+FAK	Gene
+PARP	Gene
+FAK	Gene
+imatinib	Chemical
+KIT	Gene
+patient	Species
+Fisher	Species
+PTPN18	Gene
+FAK	Gene
+GIST	Disease
+imatinib	Chemical
+imatinib	Chemical
+imatinib	Chemical
+imatinib	Chemical
+imatinib	Chemical
+FAK	Gene
+KIT	Gene
+FAK	Gene
+metastasis	Disease
+GIST	Disease
+imatinib	Chemical
+GIST	Disease
+FAK	Gene
+GIST	Disease

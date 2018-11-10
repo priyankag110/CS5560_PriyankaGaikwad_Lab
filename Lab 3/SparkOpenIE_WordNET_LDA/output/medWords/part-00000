@@ -1,0 +1,540 @@
+breast cancer	Disease
+patients	Species
+toxicity	Disease
+Patients	Species
+early-stage breast cancer	Disease
+patients	Species
+tumor	Disease
+Acute and late skin toxicities	Disease
+breast pain	Disease
+patients	Species
+patients	Species
+skin toxicity	Disease
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+
+breast cancer	Disease
+women	Species
+breast cancer	Disease
+patients	Species
+patients	Species
+metastasis	Disease
+death	Disease
+death	Disease
+patients	Species
+women	Species
+women	Species
+metastasis	Disease
+Patients	Species
+initial bone metastasis	Disease
+metastasis	Disease
+patients	Species
+patients	Species
+
+FAK	Gene
+imatinib	Chemical
+gastrointestinal stromal tumors	Disease
+imatinib mesylate	Chemical
+gastrointestinal stromal tumor	Disease
+GIST	Disease
+patients	Species
+imatinib	Chemical
+PTPN18	Gene
+imatinib	Chemical
+GIST	Disease
+FAK	Gene
+PTPN18	Gene
+imatinib	Chemical
+GIST	Disease
+FAK	Gene
+PTPN18	Gene
+imatinib	Chemical
+FAK	Gene
+FAK	Gene
+PARP	Gene
+FAK	Gene
+imatinib	Chemical
+KIT	Gene
+patient	Species
+Fisher	Species
+PTPN18	Gene
+FAK	Gene
+GIST	Disease
+imatinib	Chemical
+imatinib	Chemical
+imatinib	Chemical
+imatinib	Chemical
+imatinib	Chemical
+FAK	Gene
+KIT	Gene
+FAK	Gene
+metastasis	Disease
+GIST	Disease
+imatinib	Chemical
+GIST	Disease
+FAK	Gene
+GIST	Disease
+
+alendronate	Chemical
+metastases	Disease
+osteoporotic	Disease
+women	Species
+breast cancer	Disease
+Bisphosphonate	Chemical
+bone loss	Disease
+breast cancer	Disease
+patients	Species
+cancer	Disease
+patients	Species
+breast cancer	Disease
+alendronate	Chemical
+post-menopausal osteoporosis	Disease
+metastases	Disease
+bisphosphonate	Chemical
+cancer	Disease
+metastases	Disease
+osteoporotic	Disease
+women	Species
+breast cancer	Disease
+Tel	Gene
+women	Species
+breast cancer	Disease
+cancer	Disease
+osteoporosis	Disease
+bisphosphonate	Chemical
+osteoporotic	Disease
+women	Species
+bisphosphonates	Chemical
+alendronate	Chemical
+cancer	Disease
+women	Species
+BP-na	Chemical
+metastases	Disease
+BP-na	Chemical
+patient	Species
+patients	Species
+Cox	Chemical
+cancer	Disease
+metastasis	Disease
+tumor	Disease
+cancer	Disease
+alendronate	Chemical
+metastases	Disease
+women	Species
+breast cancer	Disease
+bisphosphonate	Chemical
+metastases	Disease
+
+ESR1	Gene
+patients	Species
+metastatic breast cancer	Disease
+ESR1	Gene
+estrogen	Chemical
+ER	Gene
+metastatic breast cancer	Disease
+MBC	Disease
+patients	Species
+ESR1	Gene
+MBC	Disease
+patients	Species
+overall survival	Disease
+OS	Disease
+patients	Species
+ER	Gene
+MBC	Disease
+ESR1	Gene
+ESR1	Gene
+OS	Disease
+ESR1	Gene
+ESR1	Gene
+fulvestrant	Chemical
+ESR1	Gene
+D538G	Mutation
+Y537S	Mutation
+ESR1	Gene
+ER	Gene
+MBC	Disease
+patients	Species
+
+Breast cancer	Disease
+cancer	Disease
+cancer	Disease
+patient	Species
+breast cancer	Disease
+breast cancer	Disease
+patients	Species
+cancer	Disease
+patients	Species
+breast cancer	Disease
+cancers	Disease
+women	Species
+metastasis	Disease
+hormone receptor	Gene
+human	Species
+epidermal growth factor receptor 2	Gene
+Her2neu	Gene
+hormone receptor	Gene
+tumors	Disease
+metastasis	Disease
+lymphovascular emboli	Disease
+LVE	Disease
+Her2neu	Gene
+LVE	Disease
+hormone receptor	Gene
+Her2neu	Gene
+
+Reimagine	Chemical
+breast cancer	Disease
+Chronic pain	Disease
+depression	Disease
+fatigue	Disease
+cancer	Disease
+Reimagine	Chemical
+breast cancer	Disease
+pain	Disease
+Women	Species
+Reimagine	Chemical
+Participants	Species
+breast cancer	Disease
+depression	Disease
+fatigue	Disease
+Reimagine	Chemical
+Reimagine	Chemical
+depression and fatigue symptoms	Disease
+breast cancer	Disease
+person	Species
+
+Aldehyde	Chemical
+breast cancer	Disease
+aldehyde	Chemical
+ALDH1	Gene
+patients	Species
+breast cancer	Disease
+cancer	Disease
+ALDH1	Gene
+breast cancer	Disease
+patients	Species
+ALDH1	Gene
+patients	Species
+breast cancer	Disease
+patients	Species
+ALDH1	Gene
+ALDH1	Gene
+patients	Species
+breast cancer	Disease
+
+Patient	Species
+patient	Species
+PATIENTS	Species
+Patients	Species
+tumour	Disease
+Patients	Species
+patient	Species
+patients	Species
+patients	Species
+seroma	Disease
+patients	Species
+patients	Species
+Cancer- and breast cancer	Disease
+patients	Species
+patient	Species
+
+breast cancer	Disease
+Triple-negative breast cancer	Disease
+TNBC	Disease
+breast cancer	Disease
+TNBC	Disease
+patients	Species
+TNBC	Disease
+GSE38959	Chemical
+GSE45827	Chemical
+GSE65194	Chemical
+TNBC	Disease
+breast cancer	Disease
+patients	Species
+breast cancer	Disease
+CCNB1	Gene
+TNBC	Disease
+CCNB1	Gene
+TNBC	Disease
+CCNB1	Gene
+TNBC	Disease
+patients	Species
+CCNB1	Gene
+TNBC	Disease
+
+meningioma	Disease
+patients	Species
+growth hormone	Gene
+growth hormone	Gene
+GH	Gene
+children	Species
+meningioma	Disease
+meningioma	Disease
+GH	Gene
+cancer	Disease
+Patients	Species
+patients	Species
+GH	Gene
+cancer	Disease
+meningioma	Disease
+meningiomas	Disease
+Meningioma	Disease
+malignancy	Disease
+patients	Species
+patients	Species
+GH	Gene
+GH	Gene
+GH	Gene
+meningioma	Disease
+patients	Species
+GH	Gene
+GH	Gene
+meningioma	Disease
+GH	Gene
+patients	Species
+
+palbociclib	Chemical
+letrozole	Chemical
+hormone receptor	Gene
+advanced breast cancer	Disease
+advanced breast cancer	Disease
+Palbociclib	Chemical
+cyclin-dependent kinases 4 and 6	Gene
+hormone receptor	Gene
+human	Species
+breast cancer	Disease
+fulvestrant	Chemical
+women	Species
+tumors	Disease
+palbociclib	Chemical
+palbociclib	Chemical
+letrozole	Chemical
+patients	Species
+hormone receptor	Gene
+human	Species
+breast cancer	Disease
+patients	Species
+palbociclib	Chemical
+letrozole	Chemical
+cyclin-dependent kinases 4 and 6	Gene
+palbociclib	Chemical
+letrozole	Chemical
+patients	Species
+palbociclib	Chemical
+letrozole	Chemical
+palbociclib	Chemical
+letrozole	Chemical
+Palbociclib	Chemical
+letrozole	Chemical
+breast cancer	Disease
+patients	Species
+cyclin-dependent kinases 4 and 6	Gene
+palbociclib	Chemical
+letrozole	Chemical
+toxicity	Disease
+neutropenia	Disease
+
+TDO2	Gene
+Cancer	Disease
+Esophageal Squamous Cell Carcinoma	Disease
+Esophageal cancer	Disease
+deadliest cancers	Disease
+esophageal squamous cell carcinoma	Disease
+ESCC	Disease
+tryptophan	Chemical
+TDO2	Gene
+tryptophan	Chemical
+tumor	Disease
+brain and breast cancer	Disease
+TDO2	Gene
+esophageal cancer	Disease
+TDO2	Gene
+ESCC	Disease
+TDO2	Gene
+ESCC	Disease
+TDO2	Gene
+ESCC	Disease
+TDO2	Gene
+tumor	Disease
+CD44	Gene
+cancer	Disease
+ESCC	Disease
+TDO2	Gene
+ESCC	Disease
+patients	Species
+TDO2	Gene
+TDO2	Gene
+TDO2	Gene
+ESCC	Disease
+TDO2	Gene
+ESCC	Disease
+
+HER2	Gene
+breast tumors	Disease
+patients	Species
+HER2-positive (HER2+) breast cancer	Disease
+patients	Species
+death	Disease
+estrogen	Chemical
+ER	Gene
+HER2	Gene
+ER	Gene
+HER2	Gene
+HER2	Gene
+single tumor	Disease
+HER2	Gene
+breast tumors	Disease
+HER2	Gene
+tumor	Disease
+HER2	Gene
+patient	Species
+tumors	Disease
+Patients	Species
+HER2	Gene
+HER2	Gene
+breast cancer	Disease
+patients	Species
+
+palbociclib	Chemical
+breast cancer	Disease
+CDKs	Gene
+hormone receptor	Gene
+HR	Gene
+breast cancer	Disease
+CDK4/6	Gene
+palbociclib	Chemical
+HR-positive/HER2-negative breast cancer	Disease
+patients	Species
+palbociclib	Chemical
+breast cancer	Disease
+palbociclib	Chemical
+HR-positive breast cancer	Disease
+patients	Species
+palbociclib	Chemical
+patient	Species
+PIK3CA	Gene
+tumor	Disease
+CDK4/6	Gene
+palbociclib	Chemical
+breast cancer	Disease
+
+tumor	Disease
+tumor	Disease
+tumor	Disease
+paclitaxel	Chemical
+paclitaxel	Chemical
+tumors	Disease
+paclitaxel	Chemical
+tumor	Disease
+
+Male Breast Cancer	Disease
+Male breast cancer	Disease
+MBC	Disease
+cancer	Disease
+breast cancer	Disease
+male	Species
+female breast cancer	Disease
+FBC	Disease
+MBC	Disease
+patients	Species
+FBC	Disease
+male	Species
+patients	Species
+breast cancer	Disease
+Patients	Species
+disease specific survival	Disease
+DSS	Disease
+MBC	Disease
+breast cancers	Disease
+patients	Species
+patients	Species
+patient	Species
+patients	Species
+tumors	Disease
+luminal B	Chemical
+HER-2	Gene
+DSS	Disease
+MBC	Disease
+FBC	Disease
+estrogen	Chemical
+ER	Gene
+male breast cancer	Disease
+
+Hormone Receptor	Gene
+Breast Cancer	Disease
+Patients	Species
+tumor	Disease
+hormone receptor	Gene
+HR	Gene
+breast cancer	Disease
+BC	Disease
+patients	Species
+PATIENTS	Species
+patients	Species
+HR	Gene
+HR	Gene
+HR	Gene
+HR	Gene
+patients	Species
+BC	Disease
+patients	Species
+patients	Species
+HR	Gene
+HR	Gene
+HR	Gene
+Patients	Species
+HR	Gene
+human	Species
+epidermal growth factor receptor 2	Gene
+patients	Species
+HR	Gene
+patients	Species
+HR	Gene
+HR	Gene
+HR	Gene
+patients	Species
+Patients	Species
+HR	Gene
+BC	Disease
+tumor	Disease
+
+BRCA	Gene
+BRCA 1 and 2	Gene
+PATIENTS	Species
+BRCA1	Gene
+women	Species
+breast/ovarian cancer	Disease
+women	Species
+cancer	Disease
+women	Species
+ovarian cancer	Disease
+patients	Species
+Women	Species
+cancer	Disease
+
+Seroma	Disease
+Seroma	Disease
+healing	Disease
+infection	Disease
+skin flap necrosis	Disease
+patient	Species
+patient	Species
+seroma	Disease
+seroma	Disease
+seroma	Disease
+breast cancer	Disease
+patients	Species
+patients	Species
+Patients	Species
+seroma aspirations	Disease
+patient	Species
+skin infection	Disease
+seroma aspirations	Disease
+patient	Species
+infection	Disease
+patient	Species
+

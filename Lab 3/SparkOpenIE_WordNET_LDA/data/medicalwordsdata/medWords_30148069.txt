@@ -1,0 +1,20 @@
+estrogen	Chemical
+breast cancer	Disease
+Estrogen	Chemical
+ERa	Gene
+breast cancer	Disease
+ERa	Gene
+mammary tumors	Disease
+ERa	Gene
+ERa	Gene
+estradiol hormone	Chemical
+estrogen	Chemical
+ERa	Gene
+ERa	Gene
+ERa	Gene
+ERa	Gene
+ERa	Gene
+ERa	Gene
+breast cancers	Disease
+ERa	Gene
+breast cancer	Disease

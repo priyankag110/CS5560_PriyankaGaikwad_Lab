@@ -1,0 +1,12 @@
+﻿This study aimed to estimate the probability of an unfavourable aesthetic outcome (AO) 2 years after breast-conserving therapy (BCT) and evaluate the possible influence of brachytherapy (BT) and external beam radiotherapy (EBRT) boost on patient-reported outcomes (PROs) and AO.
+Patients treated with BCT starting April 2015 were prospectively included.
+Selection of the boost technique followed an in-house flowchart based on the depth of the tumour bed.
+An electron boost was performed for a superficial clinical target volume (maximum 28 mm under the epidermis), a BT boost was proposed in all other cases.
+Patients were followed-up for 2 years.
+AO was scored by the BCCT.core software and the patient.
+Further PROs were measured with the EORTC QLQ-C30, QOL-BR23 and the BIBCQ questionnaires.
+The analysis included 175 patients, 80 received a BT boost and 95 an EBRT boost.
+BT patients were significantly older; had a higher breast cup and band size, body mass index and surgical specimen weight of the wide excision; more seroma at baseline and less positive surgical section margins than patients in the EBRT group, and more patients drank alcohol.
+Cancer- and breast cancer-specific quality of life (QOL) and body image did not differ between the boost techniques over time.
+Although mean scores for breast symptoms and sexual enjoyment did differ significantly over time (p=0.05 and <0.01, respectively), the effect was due to differences before boost administration.
+Measured with BCCT.core, AO was unfavourable in 28% of patients 2 years after treatment (31% scored by the patient) and results were similar in the BT and EBRT groups.

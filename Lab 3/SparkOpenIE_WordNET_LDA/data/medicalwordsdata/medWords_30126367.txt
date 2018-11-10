@@ -1,0 +1,8 @@
+tumor	Disease
+tumor	Disease
+tumor	Disease
+paclitaxel	Chemical
+paclitaxel	Chemical
+tumors	Disease
+paclitaxel	Chemical
+tumor	Disease

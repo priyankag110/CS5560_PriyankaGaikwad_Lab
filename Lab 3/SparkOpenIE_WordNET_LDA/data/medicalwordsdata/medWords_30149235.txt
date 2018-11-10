@@ -1,0 +1,17 @@
+breast cancer	Disease
+patients	Species
+toxicity	Disease
+Patients	Species
+early-stage breast cancer	Disease
+patients	Species
+tumor	Disease
+Acute and late skin toxicities	Disease
+breast pain	Disease
+patients	Species
+patients	Species
+skin toxicity	Disease
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+patients	Species

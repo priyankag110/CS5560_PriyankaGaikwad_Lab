@@ -1,0 +1,1946 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/priyanka/ontologies/2018/11/family#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/priyanka/ontologies/2018/11/family#">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="Chemical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Disease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Gene"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Mutation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Species"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="patients_with_tumors_showing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="naringenin_treatment_group"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CXCL1_administration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="two_groups_including_196_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="progression_of_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="percent_cytotoxicity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="is_significantly_correlated_with"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tumor_growth_reduction_in_EgKI-1-treated_mice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="penetration_pain_desire_lubrication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ERÎ±_polyubiquitination_selective_estrogen_receptor_degraders"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="only_1_patient_of_Level_1_group"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SOX4_promoter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="early-stage_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="women"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="HR_positive_metastatic_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="recurrences_in_patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="development_of_generation_of_targeted_therapies_for_advanced_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="binds_to"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="S961"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="penetration_pain"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="novel_utilization_of_3-O-p-coumaroyltormentic_acid_for_breast_cancer_therapy_via_disruption"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breast_cancer_lymph_node_metastasis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="GEM"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="single_tamoxifen"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="advanced_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patients_with_hormone_receptor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="514_women_with_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breast_cancer_metastasis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="EgKI-1-treated_mice"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="role_of_IR_antagonist_S961_on_IR_signalling_in_MCF-7_MDA-MB-231"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="HR_positive_breast_cancer_PI3K_inhibitors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breast_cancer_patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="functional_information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer_with_breast_CT."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="utilization_of_acid_for_breast_cancer_therapy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="death"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="significant_tumor_growth_reduction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breast_cancer_metastasis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="role_of_IR_antagonist_S961_on_IR_signalling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="women_with_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="naringenin_treatment_group"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cancer-related_death"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="MTT"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="naringenin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="early-stage_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="GEM"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="CXCL1_administration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="progression_of_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ERÎ±_polyubiquitination_selective_estrogen_receptor_degraders"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="percent_cytotoxicity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="penetration_pain_desire_lubrication"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breast_cancer_cells"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="penetration_pain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="5_years_of_tamoxifen_therapy_with_5_years_of_tamoxifen"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="is_correlated_with"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="inhibits"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breast_cancer_lymph_node_metastasis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="HR_positive_metastatic_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="514_women_with_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="novel_utilization_of_3-O-p-coumaroyltormentic_acid_for_breast_cancer_therapy_via_disruption"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="mTOR_inhibitor_everolimus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="EgKI-1-treated_mice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tumor_models"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tumors_showing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="death"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="HR_positive_breast_cancer_PI3K_inhibitors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Women_&apos;s_Sexual_Function"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="role_of_IR_antagonist_S961_on_IR_signalling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="pivotal_role_of_IR_antagonist_S961_on_IR_signalling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ERÎ±_polyubiquitination_estrogen_receptor_degraders"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="even_presence_of_insulin"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="results_in"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MTT"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Japanese_patients_with_metastatic_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breast_cancer_pathogenesis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="reduction_in_breast_cancer_growth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="significant_reduction_in_breast_cancer_growth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="treatment_of_advanced_HR_positive_HER2_negative_breast_cancer_highlighting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="naringenin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="aldehyde_dehydrogenase"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CXCL1_expression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breast_cancer_cell_proliferation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="recurrences_in_patients_with_tumors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breast_cancer_cells"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="diagnosed_with"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="selective_estrogen_receptor_modulators"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="5_years_of_tamoxifen_therapy_with_5_years_of_tamoxifen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="less_toxicity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Most_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="continued_presence_of_S961"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cancer_cells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="antioxidant_free-radical_scavenging_against_human_breast-cancer_cell_lines"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="T-PAT_participants"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ER-positive/human_epidermal_growth_factor_receptor_2-negative_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="utilization_of_acid_for_breast_cancer_therapy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="participants"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tumor_models"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pivotal_role_of_IR_antagonist_S961_on_IR_signalling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ERÎ±_polyubiquitination_estrogen_receptor_degraders"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="high_CXCL1_expression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Women_&apos;s_Sexual_Function"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancer_cell_growth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="even_presence_of_insulin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Japanese_patients_with_metastatic_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="pivotal_role_of_IR_antagonist_S961"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="estrogen_receptor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="patient_selection"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="IR_antagonist_S961"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="4_patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tumor_growth_reduction_in_EgKI-1-treated_mice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="3_patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="514_women"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="aldehyde_dehydrogenase"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="only_1_patient_of_Level_1_group"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="participants"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="S961"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="selective_estrogen_receptor_modulators"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="recurrences_in_patients_with_tumors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Most_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="antioxidant_free-radical_scavenging_against_human_breast-cancer_cell_lines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="patients_with_hormone_receptor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breast_cancer_growth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tumor_growth_reduction_in_mice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patient"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="advanced_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="advanced_recurrent_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="T-PAT_participants"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="co-treatment_of_tamoxifen"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breast_cancer_cell_proliferation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="role_of_IR_antagonist_S961_on_IR_signalling_in_MCF-7_MDA-MB-231"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="single_tamoxifen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="late_recurrences_in_patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="free-radical_scavenging_against_human_breast-cancer_cell_lines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tamoxifen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="human_breast-cancer_cell_lines"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="high_CXCL1_expression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="IR_antagonist_S961"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="metastatic_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cancer_cell_growth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="estrogen_receptor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patient_selection"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pivotal_role_of_IR_antagonist_S961"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="women_with_HER2-positive_BCs_treated_with_trastuzumab_from_2008_to_2017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tumor_growth_reduction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="role_of_IR_antagonist_S961"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="3_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="4_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="development_of_mammary_tumors"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="blocked_expression_in"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="women_with_BCs_treated_from_2008_to_2017"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="is_with"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer_with_breast_CT."/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="human_epidermal_growth_factor_receptor_2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="514_women"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Other"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="plasma_IL-6_levels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breast_cancer_growth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="T-PAT_appointment"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Japanese_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ER_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="treatment_of_advanced_HR_positive_HER2_negative_breast_cancer_highlighting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="women_with_HER2-positive_BCs_treated_with_trastuzumab"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancer_prevention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="advanced_recurrent_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="oncosphere_of_canine_tapeworm_Echinococcus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="196_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="patient"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tumor_growth_reduction_in_mice"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="healthy_patient_into_skin_fibroglandular_tissue_adipose_tissue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="presence_of_S961"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="development_of_tumors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Female_patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tumors_showing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="co-treatment_of_tamoxifen"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="free-radical_scavenging_against_human_breast-cancer_cell_lines"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="CXCL1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="metastatic_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breast_cancer_pathogenesis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="reduction_in_breast_cancer_growth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="development_of_mammary_tumors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="significant_reduction_in_breast_cancer_growth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="role_of_IR_antagonist_S961"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tumor_growth_reduction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="women_with_BCs_treated_from_2008_to_2017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer_with_breast_CT."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Patient_self-reports"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="CXCL1_expression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="continued_presence_of_S961"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Japanese_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="less_toxicity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancer_cells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="196_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="other_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="women_with_HER2-positive_BCs_treated_with_trastuzumab"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="development_of_tumors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="oncosphere_of_canine_tapeworm_Echinococcus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="significant_tumor_growth_reduction_in_EgKI-1-treated_mice"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ER-positive/human_epidermal_growth_factor_receptor_2-negative_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="healthy_patient_into_skin_fibroglandular_tissue_adipose_tissue"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="presence_of_S961"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="functional_information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer_with_breast_CT."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breast_cancer_patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="significant_tumor_growth_reduction"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="women_with_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancer-related_death"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cancer_prevention"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CXCL1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pivotal_role_of_IR_antagonist_S961_on_IR_signalling_in_MCF-7_MDA-MB-231"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="late_recurrences_in_patients_with_tumors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="CXCL1_silencing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="development_of_new_generation_of_targeted_therapies_for_advanced_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="cause_of"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="human_cell_lines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Patient_self-reports"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="women_with_HER2-positive_BCs_treated_with_trastuzumab_from_2008_to_2017"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="utilization_for_breast_cancer_therapy_via_disruption"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="other_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="significant_tumor_growth_reduction_in_EgKI-1-treated_mice"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="mouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="mTOR_inhibitor_everolimus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="end_of_RT_treatment_skin_toxicity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="growth_pathway_in_HR_positive_breast_cancer_PI3K_inhibitors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tamoxifen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="51.1_%_of_patients_G2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="human_breast-cancer_cell_lines"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="late_recurrences_in_patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patients_with_tumors_showing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="pivotal_role_of_IR_antagonist_S961_on_IR_signalling_in_MCF-7_MDA-MB-231"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="two_groups_including_196_patients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="late_recurrences_in_patients_with_tumors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CXCL1_silencing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="human_epidermal_growth_factor_receptor_2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SOX4_promoter"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="women"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="development_of_new_generation_of_targeted_therapies_for_advanced_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="development_of_generation_of_targeted_therapies_for_advanced_breast_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="plasma_IL-6_levels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="recurrences_in_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="T-PAT_appointment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="human_cell_lines"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ER_cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="utilization_for_breast_cancer_therapy_via_disruption"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="mouse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="51.1_%_of_patients_G2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="end_of_RT_treatment_skin_toxicity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Female_patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="growth_pathway_in_HR_positive_breast_cancer_PI3K_inhibitors"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="Breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="CXCL1"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="CXCL1_administration"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="CXCL1_expression"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="CXCL1_silencing"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="ER_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="EgKI-1-treated_mice"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Female_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="GEM"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="HR_positive_breast_cancer_PI3K_inhibitors"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="HR_positive_metastatic_breast_cancer"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="IR_antagonist_S961"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Japanese_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Japanese_patients_with_metastatic_breast_cancer"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="MTT"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Most_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Patient_self-reports"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="S961"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="SOX4_promoter"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="T-PAT_appointment"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="T-PAT_participants"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="advanced_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="advanced_recurrent_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="aldehyde_dehydrogenase"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="aldehyde_dehydrogenase"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="antioxidant_free-radical_scavenging_against_human_breast-cancer_cell_lines"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breast_cancer_cell_proliferation"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breast_cancer_cells"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breast_cancer_growth"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breast_cancer_lymph_node_metastasis"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breast_cancer_metastasis"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breast_cancer_pathogenesis"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="breast_cancer_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancer-related_death"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancer_cell_growth"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancer_cells"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="cancer_prevention"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="co-treatment_of_tamoxifen"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="continued_presence_of_S961"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="death"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="development_of_generation_of_targeted_therapies_for_advanced_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="development_of_mammary_tumors"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="development_of_new_generation_of_targeted_therapies_for_advanced_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="development_of_tumors"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="early-stage_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="end_of_RT_treatment_skin_toxicity"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="estrogen_receptor"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="estrogen_receptor"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="even_presence_of_insulin"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="free-radical_scavenging_against_human_breast-cancer_cell_lines"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="functional_information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer_with_breast_CT."/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="growth_pathway_in_HR_positive_breast_cancer_PI3K_inhibitors"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="healthy_patient_into_skin_fibroglandular_tissue_adipose_tissue"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="high_CXCL1_expression"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="human_breast-cancer_cell_lines"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="human_cell_lines"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="human_epidermal_growth_factor_receptor_2"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer_with_breast_CT."/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="late_recurrences_in_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="late_recurrences_in_patients_with_tumors"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="less_toxicity"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="mTOR_inhibitor_everolimus"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="metastatic_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="mouse"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="naringenin"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="naringenin_treatment_group"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="novel_utilization_of_3-O-p-coumaroyltormentic_acid_for_breast_cancer_therapy_via_disruption"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="oncosphere_of_canine_tapeworm_Echinococcus"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="only_1_patient_of_Level_1_group"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="other_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="participants"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="patient"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="patient_selection"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="patients_with_hormone_receptor"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="patients_with_tumors_showing"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="penetration_pain"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="penetration_pain_desire_lubrication"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="percent_cytotoxicity"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="pivotal_role_of_IR_antagonist_S961"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="pivotal_role_of_IR_antagonist_S961_on_IR_signalling"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="pivotal_role_of_IR_antagonist_S961_on_IR_signalling_in_MCF-7_MDA-MB-231"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="plasma_IL-6_levels"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="presence_of_S961"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="progression_of_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="recurrences_in_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="recurrences_in_patients_with_tumors"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="reduction_in_breast_cancer_growth"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="role_of_IR_antagonist_S961"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="role_of_IR_antagonist_S961_on_IR_signalling"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="role_of_IR_antagonist_S961_on_IR_signalling_in_MCF-7_MDA-MB-231"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="selective_estrogen_receptor_modulators"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="selective_estrogen_receptor_modulators"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="significant_reduction_in_breast_cancer_growth"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="significant_tumor_growth_reduction"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="significant_tumor_growth_reduction"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="significant_tumor_growth_reduction_in_EgKI-1-treated_mice"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="single_tamoxifen"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tamoxifen"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="treatment_of_advanced_HR_positive_HER2_negative_breast_cancer_highlighting"/>
+        <Class IRI="Gene"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tumor_growth_reduction"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tumor_growth_reduction_in_EgKI-1-treated_mice"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tumor_growth_reduction_in_mice"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tumor_models"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="tumors_showing"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="two_groups_including_196_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="utilization_for_breast_cancer_therapy_via_disruption"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="utilization_of_acid_for_breast_cancer_therapy"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="women"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="women"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="women_with_BCs_treated_from_2008_to_2017"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="women_with_HER2-positive_BCs_treated_with_trastuzumab"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="women_with_HER2-positive_BCs_treated_with_trastuzumab_from_2008_to_2017"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="women_with_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="196_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="3_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="4_patients"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="5_years_of_tamoxifen_therapy_with_5_years_of_tamoxifen"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="51.1_%_of_patients_G2"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="514_women"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="514_women"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="514_women_with_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="ER-positive/human_epidermal_growth_factor_receptor_2-negative_breast_cancer"/>
+        <Class IRI="Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="ERÎ±_polyubiquitination_estrogen_receptor_degraders"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="ERÎ±_polyubiquitination_selective_estrogen_receptor_degraders"/>
+        <Class IRI="Chemical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="Women_&apos;s_Sexual_Function"/>
+        <Class IRI="Species"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="Breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="CXCL1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="CXCL1_administration"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="CXCL1_expression"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="CXCL1_silencing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="ER_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="EgKI-1-treated_mice"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="Female_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="GEM"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="HR_positive_breast_cancer_PI3K_inhibitors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="HR_positive_metastatic_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="IR_antagonist_S961"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="Japanese_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="Japanese_patients_with_metastatic_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="MTT"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="Most_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="Patient_self-reports"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="S961"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="SOX4_promoter"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="T-PAT_appointment"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="T-PAT_participants"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="advanced_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="advanced_recurrent_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="aldehyde_dehydrogenase"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="aldehyde_dehydrogenase"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="antioxidant_free-radical_scavenging_against_human_breast-cancer_cell_lines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="breast_cancer_cell_proliferation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="breast_cancer_cells"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="breast_cancer_growth"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="breast_cancer_lymph_node_metastasis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="breast_cancer_metastasis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="breast_cancer_pathogenesis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="breast_cancer_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="cancer-related_death"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="cancer_cell_growth"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="cancer_cells"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="cancer_prevention"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="co-treatment_of_tamoxifen"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="continued_presence_of_S961"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="death"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="development_of_generation_of_targeted_therapies_for_advanced_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="development_of_mammary_tumors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="development_of_new_generation_of_targeted_therapies_for_advanced_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="development_of_tumors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="early-stage_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="end_of_RT_treatment_skin_toxicity"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="estrogen_receptor"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="estrogen_receptor"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="even_presence_of_insulin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="free-radical_scavenging_against_human_breast-cancer_cell_lines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="functional_information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer_with_breast_CT."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="growth_pathway_in_HR_positive_breast_cancer_PI3K_inhibitors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="healthy_patient_into_skin_fibroglandular_tissue_adipose_tissue"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="high_CXCL1_expression"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="human_breast-cancer_cell_lines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="human_cell_lines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="human_epidermal_growth_factor_receptor_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="information_of_breast_resulting_in_detection_diagnosis_of_breast_cancer_with_breast_CT."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="late_recurrences_in_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="late_recurrences_in_patients_with_tumors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="less_toxicity"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="mTOR_inhibitor_everolimus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="metastatic_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="mouse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="naringenin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="naringenin_treatment_group"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="novel_utilization_of_3-O-p-coumaroyltormentic_acid_for_breast_cancer_therapy_via_disruption"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="oncosphere_of_canine_tapeworm_Echinococcus"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="only_1_patient_of_Level_1_group"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="other_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="participants"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="patient"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="patient_selection"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="patients_with_hormone_receptor"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="patients_with_tumors_showing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="penetration_pain"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="penetration_pain_desire_lubrication"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="percent_cytotoxicity"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="pivotal_role_of_IR_antagonist_S961"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="pivotal_role_of_IR_antagonist_S961_on_IR_signalling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="pivotal_role_of_IR_antagonist_S961_on_IR_signalling_in_MCF-7_MDA-MB-231"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="plasma_IL-6_levels"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="presence_of_S961"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="progression_of_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="recurrences_in_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="recurrences_in_patients_with_tumors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="reduction_in_breast_cancer_growth"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="role_of_IR_antagonist_S961"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="role_of_IR_antagonist_S961_on_IR_signalling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="role_of_IR_antagonist_S961_on_IR_signalling_in_MCF-7_MDA-MB-231"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="selective_estrogen_receptor_modulators"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="selective_estrogen_receptor_modulators"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="significant_reduction_in_breast_cancer_growth"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="significant_tumor_growth_reduction"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="significant_tumor_growth_reduction"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="significant_tumor_growth_reduction_in_EgKI-1-treated_mice"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="single_tamoxifen"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="tamoxifen"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Gene"/>
+        <NamedIndividual IRI="treatment_of_advanced_HR_positive_HER2_negative_breast_cancer_highlighting"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="tumor_growth_reduction"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="tumor_growth_reduction_in_EgKI-1-treated_mice"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="tumor_growth_reduction_in_mice"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="tumor_models"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="tumors_showing"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="two_groups_including_196_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="utilization_for_breast_cancer_therapy_via_disruption"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="utilization_of_acid_for_breast_cancer_therapy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="women"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="women"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="women_with_BCs_treated_from_2008_to_2017"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="women_with_HER2-positive_BCs_treated_with_trastuzumab"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="women_with_HER2-positive_BCs_treated_with_trastuzumab_from_2008_to_2017"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="women_with_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="196_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="3_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="4_patients"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="5_years_of_tamoxifen_therapy_with_5_years_of_tamoxifen"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="51.1_%_of_patients_G2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="514_women"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="514_women"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="514_women_with_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Disease"/>
+        <NamedIndividual IRI="ER-positive/human_epidermal_growth_factor_receptor_2-negative_breast_cancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="ERÎ±_polyubiquitination_estrogen_receptor_degraders"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Chemical"/>
+        <NamedIndividual IRI="ERÎ±_polyubiquitination_selective_estrogen_receptor_degraders"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Species"/>
+        <NamedIndividual IRI="Women_&apos;s_Sexual_Function"/>
+    </ClassAssertion>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="binds_to"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="blocked_expression_in"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="cause_of"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="diagnosed_with"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="inhibits"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is_correlated_with"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is_significantly_correlated_with"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is_with"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="results_in"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="binds_to"/>
+        <Class IRI="Gene"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="blocked_expression_in"/>
+        <Class IRI="Chemical"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="cause_of"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="diagnosed_with"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="inhibits"/>
+        <Class IRI="Other"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is_correlated_with"/>
+        <Class IRI="Gene"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is_significantly_correlated_with"/>
+        <Class IRI="Gene"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is_with"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="results_in"/>
+        <Class IRI="Gene"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="binds_to"/>
+        <Class IRI="Gene"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="blocked_expression_in"/>
+        <Class IRI="Gene"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="cause_of"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="diagnosed_with"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="inhibits"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is_correlated_with"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is_significantly_correlated_with"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is_with"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is_with"/>
+        <Class IRI="Gene"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="results_in"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.1.0.2017-03-29T23:31:42Z) https://github.com/owlcs/owlapi/ -->
+
+

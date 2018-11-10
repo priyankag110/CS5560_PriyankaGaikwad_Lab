@@ -1,0 +1,32 @@
+Male Breast Cancer	Disease
+Male breast cancer	Disease
+MBC	Disease
+cancer	Disease
+breast cancer	Disease
+male	Species
+female breast cancer	Disease
+FBC	Disease
+MBC	Disease
+patients	Species
+FBC	Disease
+male	Species
+patients	Species
+breast cancer	Disease
+Patients	Species
+disease specific survival	Disease
+DSS	Disease
+MBC	Disease
+breast cancers	Disease
+patients	Species
+patients	Species
+patient	Species
+patients	Species
+tumors	Disease
+luminal B	Chemical
+HER-2	Gene
+DSS	Disease
+MBC	Disease
+FBC	Disease
+estrogen	Chemical
+ER	Gene
+male breast cancer	Disease

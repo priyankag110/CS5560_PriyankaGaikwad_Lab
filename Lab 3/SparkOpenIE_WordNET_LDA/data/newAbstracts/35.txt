@@ -1,0 +1,12 @@
+Esophageal cancer is one of the deadliest cancers in the world, and the main subtype is esophageal squamous cell carcinoma (ESCC), which comprises 90% of cases.
+Expression of tryptophan 2,3-dioxygenase (TDO2), an enzyme involved in tryptophan catabolism, has been linked with tumor survival and poor prognosis of brain and breast cancer.
+However, no studies have investigated the potential role of TDO2 in esophageal cancer.
+Here we explored the expression and biological significance of TDO2 in ESCC.
+TDO2 protein expression was evaluated in 90 ESCC tissue samples by immunohistochemistry.
+TDO2 function in ESCC cell lines and spheroid colony formation were evaluated by RNA interference (RNAi).
+TDO2 overexpression was associated with tumor stage, recurrence status, and the CD44 cancer stem cell marker in ESCC.
+TDO2 overexpression was correlated with poor outcome of ESCC patients.
+Inhibition of TDO2 expression by RNAi in TE-10 and TE-11 cell lines reduced both the number and the size of spheroid colonies as well as cell proliferation.
+Knockdown of TDO2 expression also induced inactivation of the epidermal growth factor receptor signaling pathway.
+Our results imply that TDO2 could play an important role in the progression of ESCC.
+Furthermore, TDO2 may be a potential therapeutic target in ESCC.

@@ -1,0 +1,27 @@
+Patients	Species
+Breast Cancer	Disease
+urinary lithiasis	Disease
+fever	Disease
+hepatitis	Disease
+cancer	Disease
+jaundice	Disease
+human	Species
+breast-cancer	Disease
+1,1-diphenyl-2-picrylhydrazyl	Chemical
+DPPH	Chemical
+2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid)	Chemical
+ABTS	Chemical
+Fe+	Chemical
+hydroxyl	Chemical
+superoxide	Chemical
+3-(4, 5- dimethylthiazolyl-2)-2, 5-diphenyltetrazolium bromide	Chemical
+MTT	Chemical
+sulforhodamine	Chemical
+SRB	Chemical
+cancer	Disease
+hydroxyl	Chemical
+superoxide	Chemical
+Fe+	Chemical
+cytotoxicity	Disease
+human	Species
+breast-cancer	Disease

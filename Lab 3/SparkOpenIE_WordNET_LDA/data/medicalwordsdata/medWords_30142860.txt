@@ -1,0 +1,18 @@
+Aldehyde	Chemical
+breast cancer	Disease
+aldehyde	Chemical
+ALDH1	Gene
+patients	Species
+breast cancer	Disease
+cancer	Disease
+ALDH1	Gene
+breast cancer	Disease
+patients	Species
+ALDH1	Gene
+patients	Species
+breast cancer	Disease
+patients	Species
+ALDH1	Gene
+ALDH1	Gene
+patients	Species
+breast cancer	Disease

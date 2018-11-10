@@ -1,0 +1,40 @@
+palbociclib	Chemical
+letrozole	Chemical
+hormone receptor	Gene
+advanced breast cancer	Disease
+advanced breast cancer	Disease
+Palbociclib	Chemical
+cyclin-dependent kinases 4 and 6	Gene
+hormone receptor	Gene
+human	Species
+breast cancer	Disease
+fulvestrant	Chemical
+women	Species
+tumors	Disease
+palbociclib	Chemical
+palbociclib	Chemical
+letrozole	Chemical
+patients	Species
+hormone receptor	Gene
+human	Species
+breast cancer	Disease
+patients	Species
+palbociclib	Chemical
+letrozole	Chemical
+cyclin-dependent kinases 4 and 6	Gene
+palbociclib	Chemical
+letrozole	Chemical
+patients	Species
+palbociclib	Chemical
+letrozole	Chemical
+palbociclib	Chemical
+letrozole	Chemical
+Palbociclib	Chemical
+letrozole	Chemical
+breast cancer	Disease
+patients	Species
+cyclin-dependent kinases 4 and 6	Gene
+palbociclib	Chemical
+letrozole	Chemical
+toxicity	Disease
+neutropenia	Disease

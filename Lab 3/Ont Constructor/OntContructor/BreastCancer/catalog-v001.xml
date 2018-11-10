@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/priyanka/ontologies/2018/11/breastcancer#" uri="Cancer.owl"/>
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/priyanka/ontologies/2018/10/BreastCancerTreatment#" uri="BreastCancerTreatment.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1541646994384" name="http://www.semanticweb.org/priyanka/ontologies/2018/10/BreastCancerTreatment#" uri="BreastCancerTreatment.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1541646994384" name="http://www.semanticweb.org/priyanka/ontologies/2018/11/breastcancer#" uri="Cancer.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1541646994384" name="http://www.semanticweb.org/priyanka/ontologies/2018/11/family#" uri="family.owl"/>
+    </group>
+</catalog>

@@ -1,0 +1,17 @@
+breast cancer	Disease
+women	Species
+breast cancer	Disease
+patients	Species
+patients	Species
+metastasis	Disease
+death	Disease
+death	Disease
+patients	Species
+women	Species
+women	Species
+metastasis	Disease
+Patients	Species
+initial bone metastasis	Disease
+metastasis	Disease
+patients	Species
+patients	Species

@@ -1,0 +1,23 @@
+breast cancers	Disease
+metastasis	Disease
+triple-negative breast cancer	Disease
+TNBC	Disease
+TNBC	Disease
+E-cadherin	Gene
+human	Species
+TNBC	Disease
+b-catenin	Gene
+GSK3b	Gene
+N-cadherin	Gene
+vimentin	Gene
+Snail	Gene
+ZEB-1	Gene
+fibronectin	Gene
+occludin	Gene
+ZO-1	Gene
+breast cancer	Disease
+metastasis	Disease
+metastasis	Disease
+E-cadherin	Gene
+human	Species
+TNBC	Disease

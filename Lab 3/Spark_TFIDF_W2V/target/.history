@@ -1,0 +1,4 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Shawn/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Users/Shawn/Downloads/Spark_TFIDF_W2V/}spark_tfidf_w2v/products {file:/C:/Users/Shawn/Downloads/Spark_TFIDF_W2V/}spark_tfidf_w2v/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Shawn/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Users/Shawn/Downloads/Spark_TFIDF_W2V/}spark_tfidf_w2v/products {file:/C:/Users/Shawn/Downloads/Spark_TFIDF_W2V/}spark_tfidf_w2v/test:products

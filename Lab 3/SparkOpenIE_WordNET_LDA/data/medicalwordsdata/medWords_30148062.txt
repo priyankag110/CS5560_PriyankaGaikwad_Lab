@@ -1,0 +1,49 @@
+alendronate	Chemical
+metastases	Disease
+osteoporotic	Disease
+women	Species
+breast cancer	Disease
+Bisphosphonate	Chemical
+bone loss	Disease
+breast cancer	Disease
+patients	Species
+cancer	Disease
+patients	Species
+breast cancer	Disease
+alendronate	Chemical
+post-menopausal osteoporosis	Disease
+metastases	Disease
+bisphosphonate	Chemical
+cancer	Disease
+metastases	Disease
+osteoporotic	Disease
+women	Species
+breast cancer	Disease
+Tel	Gene
+women	Species
+breast cancer	Disease
+cancer	Disease
+osteoporosis	Disease
+bisphosphonate	Chemical
+osteoporotic	Disease
+women	Species
+bisphosphonates	Chemical
+alendronate	Chemical
+cancer	Disease
+women	Species
+BP-na	Chemical
+metastases	Disease
+BP-na	Chemical
+patient	Species
+patients	Species
+Cox	Chemical
+cancer	Disease
+metastasis	Disease
+tumor	Disease
+cancer	Disease
+alendronate	Chemical
+metastases	Disease
+women	Species
+breast cancer	Disease
+bisphosphonate	Chemical
+metastases	Disease

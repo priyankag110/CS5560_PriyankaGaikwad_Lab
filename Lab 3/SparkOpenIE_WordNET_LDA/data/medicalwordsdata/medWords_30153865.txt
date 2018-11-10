@@ -1,0 +1,12 @@
+women	Species
+breast cancer	Disease
+Breast cancer	Disease
+women	Species
+Women's personal goals	Disease
+breast cancer	Disease
+women	Species
+breast cancer diagnosis	Disease
+breast cancer	Disease
+participants	Species
+women	Species
+breast cancer	Disease

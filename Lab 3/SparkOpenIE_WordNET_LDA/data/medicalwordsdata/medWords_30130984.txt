@@ -1,0 +1,22 @@
+palbociclib	Chemical
+breast cancer	Disease
+CDKs	Gene
+hormone receptor	Gene
+HR	Gene
+breast cancer	Disease
+CDK4/6	Gene
+palbociclib	Chemical
+HR-positive/HER2-negative breast cancer	Disease
+patients	Species
+palbociclib	Chemical
+breast cancer	Disease
+palbociclib	Chemical
+HR-positive breast cancer	Disease
+patients	Species
+palbociclib	Chemical
+patient	Species
+PIK3CA	Gene
+tumor	Disease
+CDK4/6	Gene
+palbociclib	Chemical
+breast cancer	Disease

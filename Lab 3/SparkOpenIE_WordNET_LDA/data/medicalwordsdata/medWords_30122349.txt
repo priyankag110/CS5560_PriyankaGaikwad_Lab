@@ -1,0 +1,37 @@
+Hormone Receptor	Gene
+Breast Cancer	Disease
+Patients	Species
+tumor	Disease
+hormone receptor	Gene
+HR	Gene
+breast cancer	Disease
+BC	Disease
+patients	Species
+PATIENTS	Species
+patients	Species
+HR	Gene
+HR	Gene
+HR	Gene
+HR	Gene
+patients	Species
+BC	Disease
+patients	Species
+patients	Species
+HR	Gene
+HR	Gene
+HR	Gene
+Patients	Species
+HR	Gene
+human	Species
+epidermal growth factor receptor 2	Gene
+patients	Species
+HR	Gene
+patients	Species
+HR	Gene
+HR	Gene
+HR	Gene
+patients	Species
+Patients	Species
+HR	Gene
+BC	Disease
+tumor	Disease

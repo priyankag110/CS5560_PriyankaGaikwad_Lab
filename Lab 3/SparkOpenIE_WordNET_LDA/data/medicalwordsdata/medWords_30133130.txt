@@ -1,0 +1,25 @@
+HER2	Gene
+breast tumors	Disease
+patients	Species
+HER2-positive (HER2+) breast cancer	Disease
+patients	Species
+death	Disease
+estrogen	Chemical
+ER	Gene
+HER2	Gene
+ER	Gene
+HER2	Gene
+HER2	Gene
+single tumor	Disease
+HER2	Gene
+breast tumors	Disease
+HER2	Gene
+tumor	Disease
+HER2	Gene
+patient	Species
+tumors	Disease
+Patients	Species
+HER2	Gene
+HER2	Gene
+breast cancer	Disease
+patients	Species

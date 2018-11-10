@@ -1,0 +1,20 @@
+Reimagine	Chemical
+breast cancer	Disease
+Chronic pain	Disease
+depression	Disease
+fatigue	Disease
+cancer	Disease
+Reimagine	Chemical
+breast cancer	Disease
+pain	Disease
+Women	Species
+Reimagine	Chemical
+Participants	Species
+breast cancer	Disease
+depression	Disease
+fatigue	Disease
+Reimagine	Chemical
+Reimagine	Chemical
+depression and fatigue symptoms	Disease
+breast cancer	Disease
+person	Species

@@ -1,0 +1,493 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+27 items
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\CoreNLP.java -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\CoreNLP.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM$$anonfun$1.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM$$anonfun$NGRAM$$processFile$1$1$$anonfun$apply$mcVI$sp$1.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM$$anonfun$NGRAM$$processFile$1$1.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM$$anonfun$main$1.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM$.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$1.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$2.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$3.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$4.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$5.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$6.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$main$1.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$main$2.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$main$3.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$main$4.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$1.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$main$1.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$main$2.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$main$3.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$main$4.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$main$5.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$.class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V.class
+binary dependencies:
+13 items
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\CoreNLP.java -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\CoreNLP.java -> C:\Users\Shawn\.ivy2\cache\edu.stanford.nlp\stanford-corenlp\jars\stanford-corenlp-3.9.1.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> C:\Users\Shawn\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.3.1.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.3.1.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.3.1.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.3.1.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.3.1.jar
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\CoreNLP.java -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\CoreNLP.java
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\CoreNLP.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+27 items
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\CoreNLP.java -> CoreNLP
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> NGRAM
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> NGRAM$
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> NGRAM$$anonfun$1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> NGRAM$$anonfun$NGRAM$$processFile$1$1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> NGRAM$$anonfun$NGRAM$$processFile$1$1$$anonfun$apply$mcVI$sp$1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> NGRAM$$anonfun$main$1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$$anonfun$1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$$anonfun$2
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$$anonfun$3
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$$anonfun$4
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$$anonfun$5
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$$anonfun$6
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$$anonfun$main$1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$$anonfun$main$2
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$$anonfun$main$3
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF$$anonfun$main$4
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> W2V
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> W2V$
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> W2V$$anonfun$1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> W2V$$anonfun$main$1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> W2V$$anonfun$main$2
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> W2V$$anonfun$main$3
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> W2V$$anonfun$main$4
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> W2V$$anonfun$main$5
+used names:
+290 items
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> <init>
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Any
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> AnyRef
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Array
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> ArrayOps
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> B
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Boolean
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Char
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> ClassTag
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Function1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Int
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Iterator
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> MatchError
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> NGRAM
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Nothing
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Object
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Predef
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> RDD
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Range
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> RichInt
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> ScalaRunTime
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> SparkConf
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> SparkContext
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> String
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> StringOps
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> System
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> T
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Tuple2
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> U
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> Unit
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> _$3
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> _$4
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> _$7
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> _1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> a
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> apache
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> apply
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> arrayClass
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> augmentString
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> collect
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> data
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> f
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> file
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> filename
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> files
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> foreach
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> getNGrams
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> i
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> intWrapper
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> java
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> lang
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> length
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> logData
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> map
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> materializeClassTag
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> mkString
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> n
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> ne
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> ngrams
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> org
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> package
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> println
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> processFile
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> refArrayOps
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> sc
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> scala
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> sentence
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> setAppName
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> setMaster
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> setProperty
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> sliding
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> spark
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> sparkConf
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> split
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> textFile
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> toArray
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> toString
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> until
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> wholeTextFiles
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> words
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> +
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> ->
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> <init>
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> A
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Any
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> AnyRef
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Array
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> ArrayOps
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> ArrowAssoc
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> B
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> B1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Boolean
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Broadcast
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> CharSequence
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> ClassTag
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> CoreNLP
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> D
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Double
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Function1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> HashMap
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> HashingTF
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> IDF
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> IDFModel
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Int
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Iterable
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> K
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> List
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Nothing
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Object
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Ordering
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Predef
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> RDD
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Seq
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> SparkConf
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> SparkContext
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> String
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> StringOps
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> System
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> T
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> T1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> T2
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TF_IDF
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> TraversableOnce
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Tuple2
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> U
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Unit
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> Vector
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> _$3
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> _$7
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> _1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> _2
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> abs
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> apache
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> apply
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> augmentString
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> broadcast
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> cache
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> collect
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> collection
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> dd
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> dd1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> distinct
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> documentData
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> documents
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> documentseq
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> f
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> feature
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> ff
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> fit
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> flatMap
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> foreach
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> h
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> hashingTF
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> hm
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> i
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> idf
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> immutable
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> indexOf
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> indices
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> java
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> lang
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> map
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> mapp
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> materializeClassTag
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> math
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> mllib
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> org
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> package
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> println
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> qual$1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> refArrayOps
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> replace
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> returnLemma
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> sc
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> scala
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> setAppName
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> setMaster
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> setProperty
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> sortBy
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> spark
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> sparkConf
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> split
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> splitString
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> take
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> tf
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> tfidf
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> tfidfData
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> tfidfindex
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> tfidfvalues
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> toDouble
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> toList
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> toSeq
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> toString
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> transform
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> value
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> values
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> wholeTextFiles
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> x$3
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> x$4
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> x$5
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> zip
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> +
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> <init>
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> <repeated>
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Any
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> AnyRef
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Array
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> ArrayOps
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Boolean
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Class
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> ClassTag
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Double
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> File
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> FilterMonadic
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Float
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Function1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Int
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Iterable
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Map
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> MatchError
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Nothing
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Object
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Predef
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> RDD
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> S
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Seq
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> SparkConf
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> SparkContext
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> String
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> StringContext
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> System
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> T
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Tuple2
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> U
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Unit
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> W2V
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Word2Vec
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> Word2VecModel
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> _$7
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> _1
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> _2
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> apache
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> apply
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> cosineSimilarity
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> exists
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> f
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> feature
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> findSynonyms
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> fit
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> foreach
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> getVectors
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> input
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> io
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> java
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> lang
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> length
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> line
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> load
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> map
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> materializeClassTag
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> mllib
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> model
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> modelFolder
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> ne
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> org
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> package
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> println
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> refArrayOps
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> s
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> sameModel
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> save
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> sc
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> scala
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> set
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> setAppName
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> setMaster
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> setProperty
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> setVectorSize
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> spark
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> sparkConf
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> split
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> synonym
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> synonyms
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> textFile
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> toSeq
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> unchecked
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> withFilter
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> word2vec
+product stamps:
+27 items
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\CoreNLP.class -> lastModified(1537475191689)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM$$anonfun$1.class -> lastModified(1537750939434)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM$$anonfun$main$1.class -> lastModified(1537750939489)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM$$anonfun$NGRAM$$processFile$1$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1537750939474)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM$$anonfun$NGRAM$$processFile$1$1.class -> lastModified(1537750939450)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM$.class -> lastModified(1537750939417)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\NGRAM.class -> lastModified(1537750939393)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$1.class -> lastModified(1537475932327)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$2.class -> lastModified(1537475932345)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$3.class -> lastModified(1537475932364)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$4.class -> lastModified(1537475932381)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$5.class -> lastModified(1537475932400)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$6.class -> lastModified(1537475932425)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$main$1.class -> lastModified(1537475932463)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$main$2.class -> lastModified(1537475932479)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$main$3.class -> lastModified(1537475932497)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$$anonfun$main$4.class -> lastModified(1537475932519)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF$.class -> lastModified(1537475932307)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\TF_IDF.class -> lastModified(1537475932276)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$1.class -> lastModified(1537750939569)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$main$1.class -> lastModified(1537750939593)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$main$2.class -> lastModified(1537750939612)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$main$3.class -> lastModified(1537750939630)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$main$4.class -> lastModified(1537750939664)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$$anonfun$main$5.class -> lastModified(1537750939681)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V$.class -> lastModified(1537750939547)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\target\scala-2.11\classes\W2V.class -> lastModified(1537750939522)
+source stamps:
+4 items
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\CoreNLP.java -> hash(0c99cf09b464b369271d3b880b558b4a80bee3ab)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> hash(4f24eca44e2926fd9b2c27b935dd529ea50808f3)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> hash(4a741f75833f5f08689d9ad40a558b725a7e0bb8)
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> hash(adb5b392072b3880674c08b36dcc14934308cdb0)
+binary stamps:
+5 items
+C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar -> lastModified(1535055582892)
+C:\Users\Shawn\.ivy2\cache\edu.stanford.nlp\stanford-corenlp\jars\stanford-corenlp-3.9.1.jar -> lastModified(1519878746000)
+C:\Users\Shawn\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.3.1.jar -> lastModified(1527888556000)
+C:\Users\Shawn\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.3.1.jar -> lastModified(1527888378000)
+C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+5 items
+C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Shawn\.ivy2\cache\edu.stanford.nlp\stanford-corenlp\jars\stanford-corenlp-3.9.1.jar -> edu.stanford.nlp.simple.Document
+C:\Users\Shawn\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.3.1.jar -> org.apache.spark.SparkContext$
+C:\Users\Shawn\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.3.1.jar -> org.apache.spark.mllib.feature.Word2VecModel$
+C:\Users\Shawn\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.collection.IterableLike
+internal apis:
+4 items
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\CoreNLP.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwrJ+JbQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAKc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwSAAVdXQABm5vdGlmeXNxAH4ADBnoQSB0AAtyZXR1cm5MZW1tYXNxAH4ADPhUdRV0AAR3YWl0c3EAfgAM943S9XQABmVxdWFsc3NxAH4ADOYx7jh0AAlub3RpZnlBbGxzcQB+AAxAhOZAdAAGPGluaXQ+c3EAfgAMfjvw6XQACHRvU3RyaW5nc3EAfgAMmTGnsnQACGdldENsYXNzc3EAfgAMwViKiHQAB0NvcmVOTFBzcQB+AAw+/RM1dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgAreHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AB91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AQ3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgArTAAJaW5oZXJpdGVkcQB+ACtMAAdwYXJlbnRzcQB+ACt4cQB+AEhzcQB+AEN1cQB+ACYAAAAAc3EAfgBDdXEAfgAmAAAAAHNxAH4AQ3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AR3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AR3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AYHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AYXNxAH4AKHEAfgA1cQB+ADdxAH4AOXEAfgAfcQB+ADt+cQB+ADx0AAZNb2R1bGV1cQB+AEAAAAAAc3EAfgBDcQB+AElzcQB+AENzcQB+AEtzcQB+AEN1cQB+ACYAAAAAc3EAfgBDdXEAfgAmAAAAAHNxAH4AQ3VxAH4AUgAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZfioOZB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABCQzpcVXNlcnNcU2hhd25cRG93bmxvYWRzXFNwYXJrX1RGSURGX1cyVlx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUDJnPCbRks2knHTuIC1WLSoC+46s=
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwn8NinwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdcLBGXQABm5vdGlmeXNxAH4ADLNtbb10AAR3YWl0c3EAfgAMmKIcgHQADSRhc0luc3RhbmNlT2ZzcQB+AAxasyEhdAAGZXF1YWxzc3EAfgAMQhYWinQADGFzSW5zdGFuY2VPZnNxAH4ADE12e8B0AAxzeW5jaHJvbml6ZWRzcQB+AAwqD2DMdAAJZ2V0TkdyYW1zc3EAfgAM3S/2bHQABU5HUkFNc3EAfgAMiuMaA3QADSRpc0luc3RhbmNlT2ZzcQB+AAzN2mfqdAAEbWFpbnNxAH4ADI3zvJ50AAlub3RpZnlBbGxzcQB+AAxr8hzpdAAMaXNJbnN0YW5jZU9mc3EAfgAMBQ+ymXQAAj09c3EAfgAMElGqJ3QABWNsb25lc3EAfgAMNC991XQACHRvU3RyaW5nc3EAfgAMn6okzHQAAiE9c3EAfgAM2pj/D3QACGdldENsYXNzc3EAfgAM2/O2V3QAAm5lc3EAfgAMSXCc5nQAAmVxc3EAfgAMWNo/LXQAAiMjc3EAfgAM0bSYcXQACGZpbmFsaXplc3EAfgAMn8B8gnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAddXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBac3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AX3NxAH4AWnVxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AIXVxAH4AUgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBedAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AenVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFV0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF5zcQB+AG10AAVBcnJheXEAfgBzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG10AAZTdHJpbmdzcQB+AHFzcQB+AHR1cQB+AHcAAAADc3EAfgB5dAAEamF2YXNxAH4AeXQABGxhbmdxAH4AfnNxAH4AWnVxAH4APgAAAABzcQB+AFp1cQB+AJIAAAACc3EAfgBtdAAGT2JqZWN0cQB+AJZzcQB+AG10AANBbnlxAH4Ac3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmCRksxXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEJDOlxVc2Vyc1xTaGF3blxEb3dubG9hZHNcU3BhcmtfVEZJREZfVzJWXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRPJOykTikm/ZssJ7k13VKepQgI8w==
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwW1bAcAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwV03Hh3QABm5vdGlmeXNxAH4ADOwdZt10AAR3YWl0c3EAfgAMzLJHu3QADSRhc0luc3RhbmNlT2ZzcQB+AAyCg512dAAGVEZfSURGc3EAfgAMigVu+HQABmVxdWFsc3NxAH4ADPEir550AAxhc0luc3RhbmNlT2ZzcQB+AAysYxqIdAAMc3luY2hyb25pemVkc3EAfgAMvwURE3QADSRpc0luc3RhbmNlT2ZzcQB+AAxGp8V1dAAEbWFpbnNxAH4ADKSBwuF0AAlub3RpZnlBbGxzcQB+AAwO8U3ydAAMaXNJbnN0YW5jZU9mc3EAfgAMU3DltnQAAj09c3EAfgAMrbdlbHQABWNsb25lc3EAfgAM7Tg8k3QACHRvU3RyaW5nc3EAfgAM8zVoN3QAAiE9c3EAfgAMc73wKnQACGdldENsYXNzc3EAfgAM+HtkFnQAAm5lc3EAfgAMXB0AYXQAAmVxc3EAfgAMAE7yM3QAAiMjc3EAfgAMFBBwQ3QACGZpbmFsaXplc3EAfgAMJAbKqnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFl+LTiZnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEJDOlxVc2Vyc1xTaGF3blxEb3dubG9hZHNcU3BhcmtfVEZJREZfVzJWXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRKdB91gz9fCGidmtQKVYtyWn4LuA==
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwD51Z6wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwBn5iLHQABm5vdGlmeXNxAH4ADHeYIyJ0AANXMlZzcQB+AAzz5/fedAAEd2FpdHNxAH4ADCTGX5l0AA0kYXNJbnN0YW5jZU9mc3EAfgAMpABCenQABmVxdWFsc3NxAH4ADDuX8j90AAxhc0luc3RhbmNlT2ZzcQB+AAwf4a5FdAAMc3luY2hyb25pemVkc3EAfgAM6TNEanQADSRpc0luc3RhbmNlT2ZzcQB+AAwBLApidAAEbWFpbnNxAH4ADBZuf+p0AAlub3RpZnlBbGxzcQB+AAz1RmA5dAAMaXNJbnN0YW5jZU9mc3EAfgAM3NWJWnQAAj09c3EAfgAMHsX7RXQABWNsb25lc3EAfgAMR/O9G3QACHRvU3RyaW5nc3EAfgAM7Q2emHQAAiE9c3EAfgAM1TcZsXQACGdldENsYXNzc3EAfgAMkFuaLHQAAm5lc3EAfgAMDZILC3QAAmVxc3EAfgAM6bc4u3QAAiMjc3EAfgAMINIW0nQACGZpbmFsaXplc3EAfgAMNG2XMHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmCRksxXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEJDOlxVc2Vyc1xTaGF3blxEb3dubG9hZHNcU3BhcmtfVEZJREZfVzJWXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSttbOSBys4gGdMCLNtzBSTQwjNsA==
+external apis:
+0 items
+source infos:
+4 items
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\CoreNLP.java -> 
+AAAAAAAAAAA=
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\NGRAM.scala -> 
+AAAAAAAAAAA=
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\TF_IDF.scala -> 
+AAAAAQAAAQAAABUADCAgICAgIGFicy5fMQEAAALbAQAAAAoBAAogICAgICAgICAgAQBEQzpcVXNlcnNcU2hhd25cRG93bmxvYWRzXFNwYXJrX1RGSURGX1cyVlxzcmNcbWFpblxzY2FsYVxURl9JREYuc2NhbGEBAERDOlxVc2Vyc1xTaGF3blxEb3dubG9hZHNcU3BhcmtfVEZJREZfVzJWXHNyY1xtYWluXHNjYWxhXFRGX0lERi5zY2FsYQBfYSBwdXJlIGV4cHJlc3Npb24gZG9lcyBub3RoaW5nIGluIHN0YXRlbWVudCBwb3NpdGlvbjsgeW91IG1heSBiZSBvbWl0dGluZyBuZWNlc3NhcnkgcGFyZW50aGVzZXMBAAAAAA==
+C:\Users\Shawn\Downloads\Spark_TFIDF_W2V\src\main\scala\W2V.scala -> 
+AAAAAAAAAAA=
+compilations:
+17 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZfioOZB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZfi04mZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgjB+f91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgjF2ex1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgjOTe91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgjWQs91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgjXxc91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgjj/3J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgjkYPx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgjlCOZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgjvCwh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgjzeq11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgj0ih11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgj9g411cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgj/cH51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgkBSt11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZgkZLMV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXFNoYXduXERvd25sb2Fkc1xTcGFya19URklERl9XMlZcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

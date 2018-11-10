@@ -1,0 +1,139 @@
+Esophageal cancer	Disease
+tumors	Disease
+Triple-negative breast cancer	Disease
+Her2neu	Gene
+hormone receptor	Gene
+GIST	Disease
+growth hormone	Gene
+disease specific survival	Disease
+luminal B	Chemical
+breast cancer	Disease
+Participants	Species
+women	Species
+seroma	Disease
+post-menopausal osteoporosis	Disease
+human	Species
+Patient	Species
+bone loss	Disease
+healing	Disease
+GH	Gene
+BRCA1	Gene
+GSE38959	Chemical
+overall survival	Disease
+HER-2	Gene
+lymphovascular emboli	Disease
+FAK	Gene
+patient	Species
+bisphosphonate	Chemical
+Palbociclib	Chemical
+breast cancers	Disease
+cancer	Disease
+Cancer	Disease
+metastatic breast cancer	Disease
+fulvestrant	Chemical
+aldehyde	Chemical
+ALDH1	Gene
+Cox	Chemical
+infection	Disease
+metastases	Disease
+cancers	Disease
+Patients	Species
+OS	Disease
+GSE45827	Chemical
+Male Breast Cancer	Disease
+early-stage breast cancer	Disease
+epidermal growth factor receptor 2	Gene
+male	Species
+BRCA 1 and 2	Gene
+Meningioma	Disease
+ER	Gene
+depression and fatigue symptoms	Disease
+imatinib mesylate	Chemical
+Fisher	Species
+letrozole	Chemical
+osteoporotic	Disease
+esophageal cancer	Disease
+skin flap necrosis	Disease
+esophageal squamous cell carcinoma	Disease
+Bisphosphonate	Chemical
+BP-na	Chemical
+seroma aspirations	Disease
+deadliest cancers	Disease
+BRCA	Gene
+Breast Cancer	Disease
+TDO2	Gene
+ESR1	Gene
+GSE65194	Chemical
+advanced breast cancer	Disease
+osteoporosis	Disease
+Hormone Receptor	Gene
+neutropenia	Disease
+PATIENTS	Species
+HR-positive/HER2-negative breast cancer	Disease
+PARP	Gene
+children	Species
+palbociclib	Chemical
+Reimagine	Chemical
+LVE	Disease
+D538G	Mutation
+Acute and late skin toxicities	Disease
+CDKs	Gene
+TNBC	Disease
+CD44	Gene
+skin toxicity	Disease
+cyclin-dependent kinases 4 and 6	Gene
+PIK3CA	Gene
+fatigue	Disease
+gastrointestinal stromal tumor	Disease
+meningioma	Disease
+patients	Species
+ovarian cancer	Disease
+depression	Disease
+paclitaxel	Chemical
+Seroma	Disease
+female breast cancer	Disease
+alendronate	Chemical
+DSS	Disease
+meningiomas	Disease
+Women	Species
+estrogen	Chemical
+MBC	Disease
+FBC	Disease
+skin infection	Disease
+male breast cancer	Disease
+tumor	Disease
+metastasis	Disease
+ESCC	Disease
+Chronic pain	Disease
+HR-positive breast cancer	Disease
+KIT	Gene
+HER2	Gene
+Esophageal Squamous Cell Carcinoma	Disease
+tryptophan	Chemical
+breast tumors	Disease
+death	Disease
+bisphosphonates	Chemical
+PTPN18	Gene
+person	Species
+HR	Gene
+pain	Disease
+CDK4/6	Gene
+brain and breast cancer	Disease
+Aldehyde	Chemical
+Cancer- and breast cancer	Disease
+Y537S	Mutation
+breast/ovarian cancer	Disease
+Breast cancer	Disease
+gastrointestinal stromal tumors	Disease
+tumour	Disease
+Tel	Gene
+Male breast cancer	Disease
+BC	Disease
+CCNB1	Gene
+initial bone metastasis	Disease
+toxicity	Disease
+HER2-positive (HER2+) breast cancer	Disease
+imatinib	Chemical
+malignancy	Disease
+single tumor	Disease
+breast pain	Disease

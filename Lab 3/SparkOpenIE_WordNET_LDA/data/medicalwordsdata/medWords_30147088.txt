@@ -1,0 +1,26 @@
+Breast cancer	Disease
+cancer	Disease
+cancer	Disease
+patient	Species
+breast cancer	Disease
+breast cancer	Disease
+patients	Species
+cancer	Disease
+patients	Species
+breast cancer	Disease
+cancers	Disease
+women	Species
+metastasis	Disease
+hormone receptor	Gene
+human	Species
+epidermal growth factor receptor 2	Gene
+Her2neu	Gene
+hormone receptor	Gene
+tumors	Disease
+metastasis	Disease
+lymphovascular emboli	Disease
+LVE	Disease
+Her2neu	Gene
+LVE	Disease
+hormone receptor	Gene
+Her2neu	Gene

@@ -1,0 +1,24 @@
+Sexual dysfunction	Disease
+women	Species
+breast cancer	Disease
+breast cancer	Disease
+women	Species
+breast cancer	Disease
+sexual dysfunction	Disease
+women	Species
+breast cancer	Disease
+Women	Species
+participants	Species
+cancer	Disease
+sexual dysfunction	Disease
+cancer	Disease
+sexual dysfunctions	Disease
+pain	Disease
+participants	Species
+women	Species
+sexual dysfunction	Disease
+women	Species
+breast cancer	Disease
+pain	Disease
+women	Species
+breast cancer	Disease

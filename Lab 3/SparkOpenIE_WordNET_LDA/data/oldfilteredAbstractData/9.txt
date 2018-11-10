@@ -1,0 +1,7 @@
+Central to the recognition, signaling, and repair of DNA double-strand breaks (DSBs) are the MRE11-RAD50-NBS1 (MRN) complex and mediator of DNA damage checkpoint protein 1 (MDC1), the interplay of which is essential for initiation and amplification of the DNA damage response (DDR).
+The intrinsic rule governing the regulation of the function of this molecular machinery remains to be investigated.
+We report here that the ubiquitin-specific protease USP7 was physically associated with the MRN-MDC1 complex and that the MRN-MDC1 complex acted as a platform for USP7 to efficiently deubiquitinate and stabilize MDC1, thereby sustaining the DDR.
+Accordingly, depletion of USP7 impaired the engagement of the MRN-MDC1 complex and the consequent recruitment of the downstream factors p53-binding protein 1 (53BP1) and breast cancer protein 1 (BRCA1) at DNA lesions.
+Significantly, USP7 was overexpressed in cervical cancer, and the level of its expression positively correlated with that of MDC1 and worse survival rates for patients with cervical cancer.
+We demonstrate that USP7-mediated MDC1 stabilization promoted cervical cancer cell survival and conferred cellular resistance to genotoxic insults.
+Together, our study reveals a role for USP7 in regulating the function of the MRN-MDC1 complex and activity of the DDR, supporting the pursuit of USP7 as a potential therapeutic target for MDC1-proficient cancers.

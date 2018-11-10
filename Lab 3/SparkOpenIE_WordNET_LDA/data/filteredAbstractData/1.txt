@@ -1,0 +1,766 @@
+dose-dependent manner
+oncosphere of tapeworm Echinococcus
+normal cell growth
+cell cycle
+promise
+manner
+anti-cancer therapeutic
+therapeutic
+oncosphere
+expressed
+future development
+highly expressed
+cell growth
+migration
+growth
+promise for future development
+personal goals
+existing evidence
+evidence on goal-setting
+study
+evidence
+insight into their priorities
+interventions for care
+where major component
+existing evidence on personal goal-setting
+major component
+major
+where component
+where major component of study
+context
+studies
+effective interventions
+goal-setting
+evidence on personal goal-setting
+females
+personal goal-setting
+searched
+insight
+component
+interventions
+existing evidence on goal-setting
+where component of study
+effective interventions for care
+support
+potential mechanisms
+expression of mitochondrial proteins
+transcription
+combinatorial effects
+cell cycle
+cell apoptosis
+manner
+G2/M phase
+cell proliferation
+shown
+in model
+cell growth at concentrations
+model
+ERα66
+present study
+diseases
+co-treatment
+them
+expression of apoptotic proteins
+anti-proliferative effects
+effects
+cell growth
+expression of mitochondrial apoptotic proteins
+additive manner
+potential mechanisms involved in mitochondrial dysfunction
+most diagnosed diseases
+study
+cell growth at higher concentrations
+MCF-7
+transcription of cell cycle regulation proteins
+cell growth of MCF-7 cells
+potential mechanisms involved in dysfunction
+expression of proteins
+potential mechanisms involved
+exposed
+potential mechanisms involved in dysfunction mediated
+cases
+expression
+females
+cell growth of MCF-7 cells at higher concentrations
+combinatorial anti-proliferative effects
+cell migration
+potential mechanisms involved in mitochondrial dysfunction mediated
+cell growth of MCF-7 cells at concentrations
+diagnosed diseases
+when exposed
+patient-based 4D breast phantom including time-varying contrast enhancement
+4D breast phantom including contrast enhancement for simulation
+breast CT image
+vary
+realistic patient-based 4D breast phantom including contrast enhancement for simulation
+4D digital breast phantom including contrast enhancement for simulation of breast CT perfusion imaging
+patient-based 4D breast phantom including time-varying contrast enhancement for simulation of dedicated breast CT perfusion imaging
+convolution between arterial input function
+realistic patient-based 4D digital breast phantom including contrast enhancement for simulation of breast CT perfusion imaging
+realistic 4D breast phantom
+realistic 4D breast phantom including contrast enhancement for simulation
+breast tissue perfusion
+can used during development of dynamic contrast-enhanced breast CT imaging
+realistic 4D digital breast phantom including contrast enhancement
+4D digital breast phantom including contrast enhancement for simulation of dedicated breast CT perfusion imaging
+expected enhancement of tissues consistent
+vary on voxel-basis
+work
+sampling
+4D breast phantom including time-varying contrast enhancement
+4D breast CT image acquisition
+functional information of breast resulting in detection diagnosis with breast CT.
+can used during development of contrast-enhanced breast CT imaging for optimization of image acquisition image reconstruction
+can used during development of dedicated breast CT imaging for optimization
+can used during development of dynamic breast CT imaging
+realistic 4D digital breast phantom including time-varying contrast enhancement
+realistic 4D breast phantom including contrast enhancement for simulation of dedicated breast CT perfusion imaging
+patient-based 4D breast phantom including contrast enhancement for simulation of dedicated breast CT perfusion imaging
+realistic patient-based 4D breast phantom including time-varying contrast enhancement for simulation
+patient-based 4D breast phantom including contrast enhancement for simulation of breast CT perfusion imaging
+computed for voxel in phantom
+4D digital breast phantom including time-varying contrast enhancement for simulation
+enhancement of tissues consistent with given input parameters
+can used during development of dynamic contrast-enhanced dedicated breast CT imaging
+can used during development of dynamic contrast-enhanced dedicated breast CT imaging for optimization of image acquisition image reconstruction
+realistic patient-based 4D digital breast phantom including time-varying contrast enhancement for simulation
+can used during development
+realistic 4D digital breast phantom including contrast enhancement for simulation of dedicated breast CT perfusion imaging
+patient-based 4D digital breast phantom including time-varying contrast enhancement
+different types of breast lesions
+patient-based 4D breast phantom including contrast enhancement
+4D digital breast phantom including time-varying contrast enhancement for simulation of dedicated breast CT perfusion imaging
+enhancement of tissues consistent
+4D breast phantom including contrast enhancement for simulation of dedicated breast CT perfusion imaging
+functional information of breast
+example
+realistic patient-based 4D breast phantom including contrast enhancement for simulation of dedicated breast CT perfusion imaging
+can used during development of contrast-enhanced dedicated breast CT imaging for optimization of image acquisition image reconstruction
+realistic 4D breast phantom including time-varying contrast enhancement for simulation
+realistic patient-based 4D digital breast phantom including time-varying contrast enhancement for simulation of dedicated breast CT perfusion imaging
+can used during development of breast CT imaging for optimization of image acquisition image reconstruction
+voxel size of 273 μm
+can used during development for optimization of image acquisition image reconstruction
+4D breast phantom
+convolution between input function
+expected enhancement of tissues
+4D digital breast phantom including time-varying contrast enhancement
+perfusion
+can used during development of breast CT imaging
+Finally produced
+information of breast resulting in detection diagnosis with breast CT.
+patient-based 4D breast phantom including contrast enhancement for simulation
+4D digital breast phantom including contrast enhancement for simulation
+4D breast phantom including time-varying contrast enhancement for simulation
+can used during development of dynamic dedicated breast CT imaging for optimization of image acquisition image reconstruction
+patient-based 4D breast phantom including time-varying contrast enhancement for simulation
+voxel
+enhancement dynamics
+can simulated
+realistic 4D breast phantom including contrast enhancement for simulation of breast CT perfusion imaging
+information
+dimensions
+expected enhancement
+added
+patient-based 4D digital breast phantom including contrast enhancement for simulation
+can used during development of dynamic contrast-enhanced dedicated breast CT imaging for optimization
+realistic 4D digital breast phantom
+used
+enhancement
+developed
+realistic patient-based 4D digital breast phantom including contrast enhancement
+functional information
+realistic patient-based 4D digital breast phantom
+realistic 4D breast phantom including time-varying contrast enhancement for simulation of breast CT perfusion imaging
+realistic patient-based 4D breast phantom including contrast enhancement
+patient-based 4D digital breast phantom including contrast enhancement
+can used during development of contrast-enhanced breast CT imaging for optimization
+perfusion in types
+realistic patient-based 4D breast phantom
+4D digital breast phantom including contrast enhancement
+realistic patient-based 4D digital breast phantom including contrast enhancement for simulation of dedicated breast CT perfusion imaging
+dimensions of
+can used during development of contrast-enhanced dedicated breast CT imaging for optimization
+calculated
+breast CT.
+first created
+4D digital breast phantom including time-varying contrast enhancement for simulation of breast CT perfusion imaging
+realistic 4D digital breast phantom including time-varying contrast enhancement for simulation
+perfusion in types of breast lesions
+realistic 4D breast phantom including contrast enhancement
+can used during development of contrast-enhanced dedicated breast CT imaging
+can used during development of dedicated breast CT imaging
+created
+realistic patient-based 4D digital breast phantom including time-varying contrast enhancement
+patient-based 4D digital breast phantom including time-varying contrast enhancement for simulation of dedicated breast CT perfusion imaging
+functional information of breast resulting
+produced
+realistic patient-based 4D breast phantom including time-varying contrast enhancement for simulation of breast CT perfusion imaging
+4D breast phantom including contrast enhancement for simulation of breast CT perfusion imaging
+phantom
+perfusion parameters
+patient-based 4D digital breast phantom including time-varying contrast enhancement for simulation
+4D breast phantom including contrast enhancement
+perfusion in different types of breast lesions
+realistic 4D breast phantom including time-varying contrast enhancement
+perfusion parameters associated with tissue voxel
+realistic 4D digital breast phantom including contrast enhancement for simulation
+realistic 4D digital breast phantom including time-varying contrast enhancement for simulation of dedicated breast CT perfusion imaging
+can used
+can used during development of dynamic dedicated breast CT imaging for optimization
+can used during development of dynamic dedicated breast CT imaging
+can modified
+4D breast phantom including time-varying contrast enhancement for simulation of breast CT perfusion imaging
+can also simulated
+realistic 4D breast phantom including time-varying contrast enhancement for simulation of dedicated breast CT perfusion imaging
+can used during development of dedicated breast CT imaging for optimization of image acquisition image reconstruction
+realistic 4D digital breast phantom including contrast enhancement for simulation of breast CT perfusion imaging
+different enhancement dynamics
+patient-based 4D breast phantom
+perfusion in different types
+expected enhancement of tissues consistent with given input parameters
+functional information of breast resulting in detection diagnosis
+can used during development of dynamic contrast-enhanced breast CT imaging for optimization
+realistic patient-based 4D digital breast phantom including time-varying contrast enhancement for simulation of breast CT perfusion imaging
+patient-based 4D breast phantom including time-varying contrast enhancement for simulation of breast CT perfusion imaging
+4D breast phantom including time-varying contrast enhancement for simulation of dedicated breast CT perfusion imaging
+enhancement of tissues consistent with input parameters
+information of breast resulting
+can used during development of dynamic breast CT imaging for optimization
+can used during development of contrast-enhanced breast CT imaging
+convolution
+realistic patient-based 4D digital breast phantom including contrast enhancement for simulation
+enhancement of tissues
+information of breast resulting in detection diagnosis
+voxel-basis
+patient-based 4D digital breast phantom including contrast enhancement for simulation of breast CT perfusion imaging
+can used during development of breast CT imaging for optimization
+expected enhancement of tissues consistent with input parameters
+4D digital breast phantom
+realistic 4D digital breast phantom including time-varying contrast enhancement for simulation of breast CT perfusion imaging
+realistic patient-based 4D breast phantom including time-varying contrast enhancement for simulation of dedicated breast CT perfusion imaging
+realistic patient-based 4D breast phantom including time-varying contrast enhancement
+can used during development of dynamic contrast-enhanced breast CT imaging for optimization of image acquisition image reconstruction
+realistic patient-based 4D breast phantom including contrast enhancement for simulation of breast CT perfusion imaging
+can used during development of dynamic breast CT imaging for optimization of image acquisition image reconstruction
+patient-based 4D digital breast phantom including time-varying contrast enhancement for simulation of breast CT perfusion imaging
+can used during development for optimization
+patient-based 4D digital breast phantom
+breast
+patient-based 4D digital breast phantom including contrast enhancement for simulation of dedicated breast CT perfusion imaging
+information of breast
+activities of O. pallidus
+potent activity in in-vitro models
+excellent antioxidant antimicrobial
+increasing OPAE concentration
+investigated
+models
+cell lines
+antioxidant antimicrobial
+excellent antimicrobial
+different models
+3
+power activities
+determined
+anticancer activities
+potent activity in models
+antioxidant scavenging
+antimicrobial
+1 1-diphenyl-2-picrylhydrazyl
+activity
+OPAE concentration up to 240 g/mL
+anticancer
+anticancer activities of O. pallidus
+increasing OPAE concentration up to 240 g/mL
+antioxidant scavenging against cell lines
+popular
+potent activity
+antioxidant free-radical scavenging against cell lines
+OPAE concentration
+scavenging against cell lines
+in-vitro models
+free-radical scavenging against cell lines
+free-radical scavenging
+activity in in-vitro models
+activities
+scavenging
+antioxidant free-radical scavenging
+activity in models
+two groups
+0.447
+61.6 % in group AB
+61.6 %
+divided
+group AB
+proportional hazard regression analysis
+HER2-positive BCs treated from 2008 to 2017
+nAB regimen
+0.630
+group nAB
+planned prognosis discussion
+can delivered effectively by team
+appointment
+can delivered effectively by practice-based team
+likely
+conducted
+can delivered effectively by practice-based clinical team
+intervention feasibility
+realistic beliefs
+more likely
+perceived
+intervention
+can delivered by team
+can delivered effectively
+can delivered
+compared
+prognosis discussion
+prognosis discussion communication skills
+beliefs about disease curability
+can delivered by clinical team
+beliefs
+can delivered by practice-based team
+intervention easy
+realistic beliefs about disease curability
+can delivered effectively by clinical team
+can delivered by practice-based clinical team
+novel utilization of 3-O-p-coumaroyltormentic acid via disruption
+novel utilization
+paradigm
+dose-dependent manner
+phytochemicals
+manner
+novel utilization of acid via disruption
+novel utilization of acid
+novel utilization via disruption
+expression of self-renewal-related genes
+utilization of 3-O-p-coumaroyltormentic acid
+isolation of one compound
+utilization of 3-O-p-coumaroyltormentic acid via disruption
+utilization of acid via disruption
+drug-resistant
+cell population
+utilization via disruption
+new
+utilization of acid
+expression
+expression of genes
+isolation
+utilization
+new paradigm
+CD44high/CD24low subpopulation
+ALDH
+novel utilization of 3-O-p-coumaroyltormentic acid
+results of studies published
+15 fractions for total dose
+assessed
+results of other studies published
+phase II trial
+results of other studies
+excellent/good
+association of chemotherapy
+VMAT-SIB technique
+association
+results of studies published on association of hypofractionation
+15 fractions for dose
+9.7 %
+results of other studies published on association of hypofractionation
+terms
+end
+association with boost
+terms of acute
+results
+enrolled
+results of other studies published on association
+results of studies
+also assessed
+association of chemotherapy with boost
+recorded
+at least 2 year follow-up
+15 fractions
+results of studies published on association
+safe
+boost
+51.1 %
+breast
+whole breast
+recurrence risk beyond 5 years after diagnosis
+late recurrence
+late recurrence biology trials
+recurrences occurring
+treatment extension
+knowledge of recurrence biology clinical trials on endocrine therapy
+setting
+early recurrence risk
+endocrine therapy
+benefit from endocrine therapy
+late recurrence from treatment extension
+prognostic for late recurrence selection tools
+knowledge
+recurrence biology clinical trials
+high expression of estrogen-responsive genes
+high recurrence risk beyond 5 years
+genes
+analysis
+knowledge of late recurrence biology trials on extended endocrine therapy
+knowledge of recurrence biology trials
+benefit
+recurrence
+prognostic
+recurrence biology trials
+knowledge of late recurrence biology trials on endocrine therapy
+late recurrence biology clinical trials
+recurrence selection tools
+their association with recurrence risk
+estrogen-responsive genes
+knowledge of recurrence biology clinical trials on extended endocrine therapy
+recurrences
+knowledge of late recurrence biology trials
+prognostic for recurrence selection tools
+applied
+recurrence risk beyond 5 years
+crucial
+knowledge on extended endocrine therapy
+high recurrence risk
+pooled analysis
+their association
+recurrence risk
+late recurrence selection tools
+treatment cessation
+5 years
+recurrence from treatment extension
+years of endocrine therapy reduced
+knowledge of late recurrence biology clinical trials on endocrine therapy
+knowledge of recurrence biology trials on endocrine therapy
+knowledge of recurrence biology clinical trials
+knowledge of late recurrence biology clinical trials
+high recurrence risk beyond 5 years after diagnosis
+ER-driven
+benefit from extended endocrine therapy
+late recurrences
+their association with early recurrence risk
+5 years of endocrine therapy reduced
+knowledge on endocrine therapy
+knowledge of recurrence biology trials on extended endocrine therapy
+5 years with 5 years
+likely ER-driven
+associated
+pathway
+extended endocrine therapy
+backbone of treatment in cases
+progression free survival
+initiation of chemotherapy long term overall survival data are lacking
+backbone in cases
+sequencing
+outcomes
+continue
+review
+potential biomarkers
+hormone receptor
+anticipated
+mechanisms
+management challenges in treatment
+progression survival
+development
+initiation of chemotherapy term overall survival data are lacking
+care allowing
+development of new generation of targeted therapies
+supportive care allowing
+backbone of treatment
+ET
+initiation of chemotherapy long term survival data are lacking
+important
+cyclin dependent kinase
+initiation are lacking
+care
+treatment
+unclear
+ideal strategy
+initiation of chemotherapy term survival data are lacking
+management challenges
+life
+development of new generation of therapies
+growth pathway
+known
+have disappointing due to modest effect sizes
+backbone
+have disappointing due to effect sizes
+effectiveness
+development of generation of targeted therapies
+potential biomarkers of resistance
+cases
+cases improving
+important growth pathway
+have disappointing
+have disappointing due
+development of generation
+supportive care
+development of new generation
+development of generation of therapies
+clinic
+strategy
+0.009
+questionnaire
+sexuality
+dysfunctional excitement
+their sexual relations
+0.002
+Sexual Function
+function
+4.05 ± 5.23 years
+42.26 ± 8.56 years
+50.6 %
+satisfied
+June 2016
+gathered
+their relations
+excitement
+important
+due
+sexual function
+46.34 ± 8.28 years
+± standard deviation SD
+changed
+coregulators of specific protein complexes
+may key factor
+related to therapy resistance
+may factor
+endocrine therapy resistance
+may factor in progression
+related
+ERα protein levels
+induced
+responsible
+inhibited
+Thus may factor
+Moreover related
+key
+linked
+development
+ERα
+therapy resistance
+increase
+may key factor in progression
+coactivators
+related to endocrine therapy resistance
+Thus may key factor in progression
+Thus may factor in progression
+ubiquitin proteasome system
+estradiol hormone
+detected
+Thus may key factor
+ERα degradation
+ERα transcription cycle
+increase in ERα protein levels
+coactivators for ERα
+easy time-efficient cost-effective
+easy cost-effective
+interstitial fractionated multicatheter brachytherapy
+12 %
+high
+Objective Breast Cosmesis Scale
+breast irradiation
+easy reproducible cost-effective
+fractionated brachytherapy
+brachytherapy
+fractionated multicatheter high-dose-rate brachytherapy
+interstitial brachytherapy
+interstitial fractionated brachytherapy
+interstitial multicatheter brachytherapy
+OBCS
+high between trainees before treatment
+changes in breast cosmesis
+interstitial fractionated multicatheter high-dose-rate brachytherapy
+high-dose-rate brachytherapy
+fractionated multicatheter brachytherapy
+future studies
+high treatment
+photographs
+investigation in future studies
+interstitial multicatheter high-dose-rate brachytherapy
+reproducible cost-effective
+easy time-efficient reproducible cost-effective
+further investigation in future studies
+13 % to 21.4 %
+treatment
+adjuvant accelerated breast irradiation
+trainees
+cost-effective
+12 % to 26.5 %
+changes
+accelerated breast irradiation
+breast cosmesis
+fractionated high-dose-rate brachytherapy
+12 % before treatment
+adjuvant partial breast irradiation
+adjuvant breast irradiation
+time-efficient reproducible cost-effective
+accelerated partial breast irradiation
+distances between anatomic features
+further investigation
+multicatheter high-dose-rate brachytherapy
+adjuvant accelerated partial breast irradiation
+enrolled
+multicatheter brachytherapy
+13 %
+12 % to 26.5 % before treatment
+distances
+interstitial high-dose-rate brachytherapy
+high between trainees treatment
+13 % to 21.4 % afterward
+partial breast irradiation
+analyzed
+interstitial fractionated high-dose-rate brachytherapy
+recorded
+nonstandardized photographs
+high before treatment
+distances between features
+breast-conserving surgery
+two radiation oncology centers
+investigation
+time-efficient cost-effective
+surgery
+measured
+have linked
+pivotal role
+antagonism
+distinct antagonism
+cellular proliferation
+continued presence
+breast tumour cells
+downregulated
+aspects of phenotype including cell proliferation
+have linked to pathogenesis of breast carcinoma
+several aspects of malignant phenotype including cell proliferation
+several aspects of phenotype including cell proliferation
+aspects of malignant phenotype
+evaluated
+expression of IRs
+aspects of phenotype
+presence
+IR-A isoform
+several aspects of malignant phenotype
+have intricately linked to pathogenesis
+extensive growth
+several aspects
+pivotal role on IR signalling
+proliferation in breast tumour cells
+even presence
+aimed
+aspects of malignant phenotype including cell proliferation
+dose
+have intricately linked
+colony formation
+PCR
+role
+breast carcinoma cells
+role on IR signalling
+pivotal role on IR signalling in MCF-7 MDA-MB-231
+quantitative PCR
+aspects
+MCF-7 MDA-MB-231
+IR overexpression
+found
+nanomolar dose
+have linked to pathogenesis
+have intricately linked to pathogenesis of breast carcinoma
+expression
+proliferation
+IRs
+role on IR signalling in MCF-7 MDA-MB-231
+cellular proliferation in breast tumour cells
+significantly downregulated
+several aspects of phenotype
+growth
+proliferation owing
+breast conservation therapy
+might involved
+study 2
+approximately 3 years
+2 × 2 mixed
+Pearson 's correlation coefficient
+unclear
+WMS-R indices between two studies
+might involved in recovery process
+Wechsler Memory Scale-Revised test
+that
+soon restored
+cognitive decline
+Wechsler Memory test
+decline
+restored
+correlation coefficient
+evaluated
+higher
+significantly higher
+three metrics
+three different metrics
+three visual representations
+three representations
+three metrics of mortality
+three different metrics of mortality
+highest responsive gene
+its transcription
+have implicated in promotion
+poor clinical outcomes
+However required
+required
+poor outcomes
+TAMs
+outcomes
+loop
+further investigation
+significantly correlated
+have identified
+still required
+highest gene
+gene
+NF-κB/SOX4 activation
+significant reduction
+However still required
+have implicated
+investigation
+loop TAMs
+reduction
+correlated
+clinical outcomes
+responsive gene
+Level 0 doses
+combination therapy
+phase
+escalated
+difficult
+Grade 3 mucositis
+tolerability of combination therapy
+tolerability of combination therapy with ERI
+combination therapy due
+Level 1 doses
+ERI
+conclusion
+found
+1.4 mg/m2 for ERI
+other chemotherapeutic agents
+has approved
+tolerability with ERI
+Grade 3 oral mucositis
+1.4 mg/m2
+Level 0
+combination with other chemotherapeutic agents
+tolerability
+Level 1
+molecular pathways involved in pathogenesis of proliferation
+molecular pathways involved
+review
+molecular pathways involved in pathogenesis
+closed loop structure
+knowledge
+molecular pathways
+their potential implications
+current knowledge
+pathways involved in pathogenesis
+pathways
+pathways involved in pathogenesis of proliferation
+current knowledge on circRNAs
+knowledge on circRNAs
+their potential clinical implications
+vital
+pathways involved

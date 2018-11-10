@@ -1,0 +1,30 @@
+meningioma	Disease
+patients	Species
+growth hormone	Gene
+growth hormone	Gene
+GH	Gene
+children	Species
+meningioma	Disease
+meningioma	Disease
+GH	Gene
+cancer	Disease
+Patients	Species
+patients	Species
+GH	Gene
+cancer	Disease
+meningioma	Disease
+meningiomas	Disease
+Meningioma	Disease
+malignancy	Disease
+patients	Species
+patients	Species
+GH	Gene
+GH	Gene
+GH	Gene
+meningioma	Disease
+patients	Species
+GH	Gene
+GH	Gene
+meningioma	Disease
+GH	Gene
+patients	Species

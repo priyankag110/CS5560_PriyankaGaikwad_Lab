@@ -1,0 +1,18 @@
+Breast Cancer	Disease
+Triple-negative breast cancer	Disease
+TNBC	Disease
+breast cancer	Disease
+estrogen	Chemical
+progesterone	Chemical
+human	Species
+TNBC	Disease
+TNBC	Disease
+patients	Species
+breast cancer	Disease
+patients	Species
+residual disease	Disease
+TNBC	Disease
+TNBC	Disease
+BRCA	Gene
+TNBC	Disease
+TNBC	Disease

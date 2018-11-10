@@ -1,0 +1,8 @@
+Cyclin-dependent kinases (CDKs) 4 and 6 regulate the transition from G0/G1-phase to S-phase of the cell cycle and have been identified as key drivers of proliferation in hormone receptor (HR)-positive breast cancer.
+The CDK4/6 inhibitor palbociclib in combination with endocrine therapy has been approved for treatment of HR-positive/HER2-negative breast cancer patients.
+In this article, we provide an update of the data on pharmacodynamics, pharmacokinetics, preclinical, and clinical studies of palbociclib in breast cancer.
+We performed a search of data on palbociclib in the PubMed and the clinicaltrials.gov databases, in the FDA website and in the ASCO and AACR proceedings.
+In order to optimize the clinical outcome of HR-positive breast cancer patients treated with palbociclib, predictive biomarkers allowing patient selection are urgently needed.
+A recent study suggested that early dynamics of PIK3CA mutations in circulating tumor DNA might be a potential predictive biomarker for CDK4/6 inhibitors.
+Several clinical trials are ongoing with the aim to explore the activity of combinations of palbociclib with targeted agents and/or immunotherapy in the different subtypes of breast cancer in both metastatic and early phases of the disease.
+These combinations might allow improving the sensitivity and overcoming mechanisms of resistance.

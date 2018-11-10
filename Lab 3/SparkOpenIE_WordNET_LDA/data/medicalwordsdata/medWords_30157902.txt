@@ -1,0 +1,8 @@
+breast Cancer	Disease
+Breast cancer	Disease
+cancer	Disease
+cancer	Disease
+death	Disease
+women	Species
+human	Species
+breast cancer	Disease

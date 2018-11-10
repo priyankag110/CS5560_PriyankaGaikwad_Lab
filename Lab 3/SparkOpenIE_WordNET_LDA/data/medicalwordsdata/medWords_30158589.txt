@@ -1,0 +1,35 @@
+CXCL1	Gene
+tumor	Disease
+breast cancer	Disease
+metastasis	Disease
+SOX4	Gene
+Tumor	Disease
+breast cancer	Disease
+metastasis	Disease
+TAM	Chemical
+cancer	Disease
+C-X-C motif chemokine ligand 1	Gene
+CXCL1	Gene
+CXCL1	Gene
+breast cancer	Disease
+mouse	Species
+human	Species
+breast cancer	Disease
+SOX4	Gene
+CXCL1	Gene
+CXCL1	Gene
+SOX4	Gene
+breast cancer	Disease
+xenografts	Species
+CXCL1	Gene
+reduction in breast cancer	Disease
+CXCL1	Gene
+breast cancer	Disease
+metastasis	Disease
+CXCL1	Gene
+breast cancer	Disease
+metastasis	Disease
+SOX4	Gene
+CXCL1	Gene
+breast cancer	Disease
+metastasis	Disease

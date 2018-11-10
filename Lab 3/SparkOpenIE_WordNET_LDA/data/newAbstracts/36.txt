@@ -1,0 +1,11 @@
+The management of endocrine therapy resistance is one of the most challenging facets of advanced breast cancer treatment.
+Palbociclib is an inhibitor of cyclin-dependent kinases 4 and 6 approved for the treatment of hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced or metastatic breast cancer in combination with fulvestrant in postmenopausal women with disease progression following endocrine therapy.
+However, treatment responsiveness of tumors to palbociclib after multiple lines of endocrine therapy is not clearly established.
+The purpose of this study was to determine the efficacy of palbociclib and letrozole in patients pretreated with one or more lines of endocrine therapy.
+Methods This was a single-center, retrospective cohort study of all postmenopausal hormone receptor-positive, human epidermal growth factor receptor 2-negative metastatic breast cancer patients who received palbociclib and letrozole as a second-line endocrine therapy or beyond (and no prior cyclin-dependent kinases 4 and 6 inhibitor therapy) between February 1, 2015, and July 31, 2016.
+The primary objective was to evaluate time to treatment failure of palbociclib in combination with letrozole as a second-line of therapy or beyond.
+Results Fifty-three patients meeting eligibility criteria were included in the analysis.
+For the primary outcome, the median time to treatment failure of palbociclib and letrozole was 6.3 months (95% CI 3.1-7.4 months).
+Progression-free survival of palbociclib and letrozole therapy was 6.4 months (95% CI 4.9-8.3 months).
+Conclusions Palbociclib and letrozole therapy is a viable, effective treatment option for metastatic breast cancer patients who were not exposed to cyclin-dependent kinases 4 and 6 inhibitors as a first-line endocrine therapy.
+The benefits of palbociclib and letrozole therapy were seen without excessive toxicity, and although neutropenia was common, it may be managed with dose reduction.

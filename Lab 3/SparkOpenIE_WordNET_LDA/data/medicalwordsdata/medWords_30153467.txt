@@ -1,0 +1,33 @@
+tamoxifen	Chemical
+naringenin	Chemical
+estrogen	Chemical
+Breast cancer	Disease
+estrogen	Chemical
+patients	Species
+tamoxifen	Chemical
+naringenin	Chemical
+breast cancer	Disease
+estrogen	Chemical
+Tamoxifen	Chemical
+naringenin	Chemical
+tamoxifen	Chemical
+naringenin	Chemical
+MMP-9	Gene
+MMP-2	Gene
+tamoxifen	Chemical
+naringenin	Chemical
+oxygen	Chemical
+estrogen	Chemical
+ERb	Gene
+estrogen	Chemical
+GPR30	Gene
+tamoxifen	Chemical
+naringenin	Chemical
+GPR30	Gene
+ERb	Gene
+GPR30	Gene
+ERb	Gene
+tamoxifen	Chemical
+naringenin	Chemical
+breast cancer	Disease
+estrogen	Chemical

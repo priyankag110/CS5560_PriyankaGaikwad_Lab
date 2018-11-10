@@ -1,0 +1,11 @@
+breast cancer	Disease
+xenografts	Species
+tumor	Disease
+cancer	Disease
+tumor	Disease
+tumor	Disease
+xenografts	Species
+tumor	Disease
+cancer	Disease
+xenografts	Species
+tumors	Disease

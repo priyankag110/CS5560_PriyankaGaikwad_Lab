@@ -1,0 +1,34 @@
+TDO2	Gene
+Cancer	Disease
+Esophageal Squamous Cell Carcinoma	Disease
+Esophageal cancer	Disease
+deadliest cancers	Disease
+esophageal squamous cell carcinoma	Disease
+ESCC	Disease
+tryptophan	Chemical
+TDO2	Gene
+tryptophan	Chemical
+tumor	Disease
+brain and breast cancer	Disease
+TDO2	Gene
+esophageal cancer	Disease
+TDO2	Gene
+ESCC	Disease
+TDO2	Gene
+ESCC	Disease
+TDO2	Gene
+ESCC	Disease
+TDO2	Gene
+tumor	Disease
+CD44	Gene
+cancer	Disease
+ESCC	Disease
+TDO2	Gene
+ESCC	Disease
+patients	Species
+TDO2	Gene
+TDO2	Gene
+TDO2	Gene
+ESCC	Disease
+TDO2	Gene
+ESCC	Disease
