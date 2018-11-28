@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rita (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/rita.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

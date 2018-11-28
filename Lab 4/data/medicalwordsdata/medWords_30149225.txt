@@ -1,0 +1,22 @@
+patients	Species
+breast cancer	Disease
+estrogen	Chemical
+ER	Gene
+breast cancer	Disease
+patient	Species
+patient	Species
+tamoxifen	Chemical
+tamoxifen	Chemical
+patients	Species
+ER	Gene
+human	Species
+epidermal growth factor receptor 2	Gene
+breast cancer	Disease
+estrogen	Chemical
+patients	Species
+tumors	Disease
+estrogen	Chemical
+ER	Gene
+patients	Species
+tumors	Disease
+estrogen	Chemical

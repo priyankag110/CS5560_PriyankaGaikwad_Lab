@@ -1,0 +1,14 @@
+﻿Pregnancy-associated breast cancer (PABC) refers to breast cancers (BC) diagnosed during pregnancy or shortly after birth.
+Although the inflammatory environment of post-partum PABC cases (designed as PP-PABC) may be deleterious, so far PP-PABC have scarcely been distinguished from breast cancers diagnosed during pregnancy.
+Furthermore, whether PP-PABC cases have an enhanced immune infiltration remains unknown.
+We investigated chemosensitivity, immune infiltration and survival of PP-PABC patients treated by neoadjuvant chemotherapy (NAC) compared to non-PABC matched BC patients..
+We identified PP-PABC cases among a cohort of 1199 invasive BC treated with NAC between 2002 and 2012.
+Each PP-PABC case was matched with 3 non-PABC controls, according to age and pathological breast cancer subtype.
+Microbiopsy specimens and paired surgical samples were evaluated for stromal lymphocyte infiltration.
+Association of clinical and pathological factors with pathological complete response (pCR) and disease-free survival (DFS) was assessed by univariate and multivariate analyses..
+Our final population study was composed of 116 patients (29 PP-PABC and 87 non-PABC).
+Median follow-up was of 49.0 and 29.3 months, respectively.
+After NAC, pCR rates (p = 0.64), post-NAC immune infiltration (stromal TILs: p = 0.67; intratumoral TILs: p = 0.14), and DFS rates (p = 0.17) were comparable between PP-PABC and non-PABC patients in global population.
+Similar results were found after stratification by pathological subtype..
+We observed similar patterns between postpartum PABC and control tumors in terms of chemosensitivity, immune infiltration, and prognostic.
+Our results enhance the idea that PP-PABC should receive the same standard of care treatment as other patients, including neoadjuvant chemotherapy.

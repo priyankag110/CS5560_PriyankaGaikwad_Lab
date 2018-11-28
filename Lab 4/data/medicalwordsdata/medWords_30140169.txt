@@ -1,0 +1,35 @@
+HER2	Gene
+breast cancer	Disease
+breast carcinoma	Disease
+TP53	Gene
+human	Species
+epidermal growth factor receptor	Gene
+HER2	Gene
+breast cancer	Disease
+HER2	Gene
+breast cancer	Disease
+ZJU-0327	Chemical
+ZJU-0725	Chemical
+ZJU-1127	Chemical
+invasive ductal breast carcinoma	Disease
+patients	Species
+BALB/C	Species
+mouse	Species
+xenograft	Species
+ZJU-0327	Chemical
+ZJU-0725	Chemical
+ZJU-1127	Chemical
+polyploid	Disease
+ZJU-0327	Chemical
+ZJU-1127	Chemical
+ZJU-0725	Chemical
+tumor	Disease
+tumorigenicity	Disease
+mice	Species
+HER2	Gene
+human	Species
+HER2	Gene
+breast cancer	Disease
+tumor	Disease
+HER2	Gene
+breast cancer	Disease

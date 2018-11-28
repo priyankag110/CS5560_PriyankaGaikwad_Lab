@@ -1,0 +1,33 @@
+Bone Marrow Metastasis	Disease
+Breast Cancer	Disease
+Breast cancer	Disease
+malignancies	Disease
+metastasis	Disease
+breast cancer	Disease
+metastasis	Disease
+tumors	Disease
+breast cancer	Disease
+woman	Species
+headache	Disease
+metastasis	Disease
+estrogen	Chemical
+human	Species
+breast cancer	Disease
+primary lesion	Disease
+tamoxifen	Chemical
+Mucin 1	Gene
+MUC1	Gene
+cancer antigen 15-3	Gene
+CA 15-3	Gene
+breast cancer	Disease
+Interleukin-1b	Gene
+IL-1b	Gene
+breast cancer	Disease
+Receptor activator of nuclear factor kappa-B	Gene
+RANK	Gene
+RANKL	Gene
+tumor	Disease
+MUC1	Gene
+IL-1b	Gene
+RANKL	Gene
+patients	Species

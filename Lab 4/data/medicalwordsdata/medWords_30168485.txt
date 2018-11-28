@@ -1,0 +1,18 @@
+insulin receptor	Gene
+insulin receptor	Gene
+breast cancer	Disease
+Insulin	Gene
+insulin	Gene
+breast carcinoma	Disease
+breast cancer	Disease
+metastasis	Disease
+human	Species
+insulin	Gene
+breast cancer	Disease
+MTT	Chemical
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazoliumbromide	Chemical
+breast carcinoma	Disease
+breast cancer	Disease
+insulin	Gene
+breast tumour	Disease
+S961	Chemical

@@ -1,0 +1,673 @@
+canine	Species
+Echinococcus granulosus	Species
+breast cancer	Disease
+canine	Species
+Echinococcus granulosus	Species
+humans	Species
+Larval	Species
+cancer	Disease
+human	Species
+cancers	Disease
+breast, melanoma and cervical cancer	Disease
+cancer	Disease
+cancer	Disease
+breast cancer	Disease
+BALB/c	Species
+nude mice	Species
+tumor	Disease
+mice	Species
+cancer	Disease
+Sexual dysfunction	Disease
+women	Species
+breast cancer	Disease
+breast cancer	Disease
+women	Species
+breast cancer	Disease
+sexual dysfunction	Disease
+women	Species
+breast cancer	Disease
+Women	Species
+participants	Species
+cancer	Disease
+sexual dysfunction	Disease
+cancer	Disease
+sexual dysfunctions	Disease
+pain	Disease
+participants	Species
+women	Species
+sexual dysfunction	Disease
+women	Species
+breast cancer	Disease
+pain	Disease
+women	Species
+breast cancer	Disease
+patient	Species
+patients	Species
+patients	Species
+patient	Species
+males	Species
+males	Species
+insulin receptor	Gene
+insulin receptor	Gene
+breast cancer	Disease
+Insulin	Gene
+insulin	Gene
+breast carcinoma	Disease
+breast cancer	Disease
+metastasis	Disease
+human	Species
+insulin	Gene
+breast cancer	Disease
+MTT	Chemical
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazoliumbromide	Chemical
+breast carcinoma	Disease
+breast cancer	Disease
+insulin	Gene
+breast tumour	Disease
+S961	Chemical
+breast cancer	Disease
+patients	Species
+cognitive decline	Disease
+interleukin (IL)-6	Gene
+IL-6	Gene
+breast cancer	Disease
+patients	Species
+IL-6	Gene
+IL-6	Gene
+IL-6	Gene
+breast cancer	Disease
+patients	Species
+IL-6	Gene
+death	Disease
+breast cancer	Disease
+patients	Species
+women	Species
+breast cancer	Disease
+death	Disease
+breast cancer	Disease
+patient	Species
+metastases	Disease
+death	Disease
+women	Species
+metastases	Disease
+death	Disease
+women	Species
+cancer	Disease
+CXCL1	Gene
+tumor	Disease
+breast cancer	Disease
+metastasis	Disease
+SOX4	Gene
+Tumor	Disease
+breast cancer	Disease
+metastasis	Disease
+TAM	Chemical
+cancer	Disease
+C-X-C motif chemokine ligand 1	Gene
+CXCL1	Gene
+CXCL1	Gene
+breast cancer	Disease
+mouse	Species
+human	Species
+breast cancer	Disease
+SOX4	Gene
+CXCL1	Gene
+CXCL1	Gene
+SOX4	Gene
+breast cancer	Disease
+xenografts	Species
+CXCL1	Gene
+reduction in breast cancer	Disease
+CXCL1	Gene
+breast cancer	Disease
+metastasis	Disease
+CXCL1	Gene
+breast cancer	Disease
+metastasis	Disease
+SOX4	Gene
+CXCL1	Gene
+breast cancer	Disease
+metastasis	Disease
+Gemcitabine	Chemical
+Patients	Species
+Breast Cancer	Disease
+breast cancer	Disease
+gemcitabine	Chemical
+GEM	Chemical
+patients	Species
+breast cancer	Disease
+GEM	Chemical
+GEM	Chemical
+patients	Species
+patients	Species
+patients	Species
+toxicity	Disease
+patient	Species
+oral mucositis	Disease
+toxicities	Disease
+neutropenia	Disease
+GEM	Chemical
+patients	Species
+breast cancer	Disease
+toxicities	Disease
+GEM	Chemical
+patients	Species
+breast Cancer	Disease
+Breast cancer	Disease
+cancer	Disease
+cancer	Disease
+death	Disease
+women	Species
+human	Species
+breast cancer	Disease
+women	Species
+breast cancer	Disease
+Breast cancer	Disease
+women	Species
+Women's personal goals	Disease
+breast cancer	Disease
+women	Species
+breast cancer diagnosis	Disease
+breast cancer	Disease
+participants	Species
+women	Species
+breast cancer	Disease
+tamoxifen	Chemical
+naringenin	Chemical
+estrogen	Chemical
+Breast cancer	Disease
+estrogen	Chemical
+patients	Species
+tamoxifen	Chemical
+naringenin	Chemical
+breast cancer	Disease
+estrogen	Chemical
+Tamoxifen	Chemical
+naringenin	Chemical
+tamoxifen	Chemical
+naringenin	Chemical
+MMP-9	Gene
+MMP-2	Gene
+tamoxifen	Chemical
+naringenin	Chemical
+oxygen	Chemical
+estrogen	Chemical
+ERb	Gene
+estrogen	Chemical
+GPR30	Gene
+tamoxifen	Chemical
+naringenin	Chemical
+GPR30	Gene
+ERb	Gene
+GPR30	Gene
+ERb	Gene
+tamoxifen	Chemical
+naringenin	Chemical
+breast cancer	Disease
+estrogen	Chemical
+Patient	Species
+patient	Species
+patient	Species
+breast lesion	Disease
+tumor	Disease
+tumor	Disease
+breast lesions	Disease
+tumor	Disease
+tumor	Disease
+patient	Species
+breast cancer	Disease
+Patients	Species
+Breast Cancer	Disease
+urinary lithiasis	Disease
+fever	Disease
+hepatitis	Disease
+cancer	Disease
+jaundice	Disease
+human	Species
+breast-cancer	Disease
+1,1-diphenyl-2-picrylhydrazyl	Chemical
+DPPH	Chemical
+2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid)	Chemical
+ABTS	Chemical
+Fe+	Chemical
+hydroxyl	Chemical
+superoxide	Chemical
+3-(4, 5- dimethylthiazolyl-2)-2, 5-diphenyltetrazolium bromide	Chemical
+MTT	Chemical
+sulforhodamine	Chemical
+SRB	Chemical
+cancer	Disease
+hydroxyl	Chemical
+superoxide	Chemical
+Fe+	Chemical
+cytotoxicity	Disease
+human	Species
+breast-cancer	Disease
+anthracycline	Chemical
+anthracycline	Chemical
+HER2	Gene
+breast cancers	Disease
+anthracycline	Chemical
+anthracycline	Chemical
+human	Species
+epidermal growth factor receptor 2	Gene
+HER2	Gene
+patients	Species
+women	Species
+HER2	Gene
+patients	Species
+patients	Species
+overall survival	Disease
+OS	Disease
+OS	Disease
+HER2	Gene
+team based prognosis and treatment goal discussion	Disease
+T-PAT	Disease
+women	Species
+advanced breast cancer	Disease
+women	Species
+advanced breast cancer	Disease
+patients	Species
+advanced breast cancer	Disease
+Patient	Species
+patients	Species
+T-PAT	Disease
+T-PAT	Disease
+participants	Species
+patient	Species
+patients	Species
+advanced breast cancer	Disease
+T-PAT	Disease
+T-PAT	Disease
+T-PAT	Disease
+Triterpene Acid	Chemical
+3-O-p-Coumaroyltormentic Acid	Chemical
+Cancer	Disease
+c-Myc	Gene
+Cancer	Disease
+cancer	Disease
+tumor	Disease
+cancer	Disease
+metastasis	Disease
+cancer	Disease
+silica gel	Chemical
+3-O-p-coumaroyltormentic acid	Chemical
+breast cancer	Disease
+CD44	Gene
+CD24	Gene
+aldehyde	Chemical
+CD44	Gene
+SOX2	Gene
+OCT4.3-O-p-Coumaroyltormentic acid	Chemical
+c-Myc	Gene
+c-Myc	Gene
+3-O-p-coumaroyltormentic acid	Chemical
+breast cancer	Disease
+c-Myc	Gene
+breast cancer	Disease
+patients	Species
+toxicity	Disease
+Patients	Species
+early-stage breast cancer	Disease
+patients	Species
+tumor	Disease
+Acute and late skin toxicities	Disease
+breast pain	Disease
+patients	Species
+patients	Species
+skin toxicity	Disease
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+breast cancer	Disease
+estrogen	Chemical
+ER	Gene
+breast cancer	Disease
+patient	Species
+patient	Species
+tamoxifen	Chemical
+tamoxifen	Chemical
+patients	Species
+ER	Gene
+human	Species
+epidermal growth factor receptor 2	Gene
+breast cancer	Disease
+estrogen	Chemical
+patients	Species
+tumors	Disease
+estrogen	Chemical
+ER	Gene
+patients	Species
+tumors	Disease
+estrogen	Chemical
+HER2	Gene
+Breast Cancer	Disease
+patients	Species
+hormone receptor	Gene
+HR	Gene
+HER2 negative disease	Disease
+breast cancer	Disease
+estrogen	Chemical
+estrogen	Chemical
+estrogen	Chemical
+cyclin dependent kinase (CDK) 4/6	Gene
+AKT	Gene
+mTOR	Gene
+HR	Gene
+breast cancer	Disease
+toxicity	Disease
+mTOR	Gene
+everolimus	Chemical
+toxicity	Disease
+patients	Species
+HR	Gene
+breast cancer	Disease
+HR	Gene
+HER2	Gene
+breast cancer	Disease
+palbociclib	Chemical
+ribociclib	Chemical
+everolimus	Chemical
+estrogen	Chemical
+breast cancer	Disease
+Estrogen	Chemical
+ERa	Gene
+breast cancer	Disease
+ERa	Gene
+mammary tumors	Disease
+ERa	Gene
+ERa	Gene
+estradiol hormone	Chemical
+estrogen	Chemical
+ERa	Gene
+ERa	Gene
+ERa	Gene
+ERa	Gene
+ERa	Gene
+ERa	Gene
+breast cancers	Disease
+ERa	Gene
+breast cancer	Disease
+alendronate	Chemical
+metastases	Disease
+osteoporotic	Disease
+women	Species
+breast cancer	Disease
+Bisphosphonate	Chemical
+bone loss	Disease
+breast cancer	Disease
+patients	Species
+cancer	Disease
+patients	Species
+breast cancer	Disease
+alendronate	Chemical
+post-menopausal osteoporosis	Disease
+metastases	Disease
+bisphosphonate	Chemical
+cancer	Disease
+metastases	Disease
+osteoporotic	Disease
+women	Species
+breast cancer	Disease
+Tel	Gene
+women	Species
+breast cancer	Disease
+cancer	Disease
+osteoporosis	Disease
+bisphosphonate	Chemical
+osteoporotic	Disease
+women	Species
+bisphosphonates	Chemical
+alendronate	Chemical
+cancer	Disease
+women	Species
+BP-na	Chemical
+metastases	Disease
+BP-na	Chemical
+patient	Species
+patients	Species
+Cox	Chemical
+cancer	Disease
+metastasis	Disease
+tumor	Disease
+cancer	Disease
+alendronate	Chemical
+metastases	Disease
+women	Species
+breast cancer	Disease
+bisphosphonate	Chemical
+metastases	Disease
+ESR1	Gene
+patients	Species
+metastatic breast cancer	Disease
+ESR1	Gene
+estrogen	Chemical
+ER	Gene
+metastatic breast cancer	Disease
+MBC	Disease
+patients	Species
+ESR1	Gene
+MBC	Disease
+patients	Species
+overall survival	Disease
+OS	Disease
+patients	Species
+ER	Gene
+MBC	Disease
+ESR1	Gene
+ESR1	Gene
+OS	Disease
+ESR1	Gene
+ESR1	Gene
+fulvestrant	Chemical
+ESR1	Gene
+D538G	Mutation
+Y537S	Mutation
+ESR1	Gene
+ER	Gene
+MBC	Disease
+patients	Species
+breast cancers	Disease
+metastasis	Disease
+triple-negative breast cancer	Disease
+TNBC	Disease
+TNBC	Disease
+E-cadherin	Gene
+human	Species
+TNBC	Disease
+b-catenin	Gene
+GSK3b	Gene
+N-cadherin	Gene
+vimentin	Gene
+Snail	Gene
+ZEB-1	Gene
+fibronectin	Gene
+occludin	Gene
+ZO-1	Gene
+breast cancer	Disease
+metastasis	Disease
+metastasis	Disease
+E-cadherin	Gene
+human	Species
+TNBC	Disease
+breast cancer	Disease
+breast cancer	Disease
+death	Disease
+women	Species
+virus	Species
+virus	Species
+cancer	Disease
+virus	Species
+cancer	Disease
+viruses	Species
+virus	Species
+viruses	Species
+cancer	Disease
+cancer	Disease
+bacterial	Species
+viruses	Species
+bacteriophages	Species
+cancer	Disease
+cancer	Disease
+breast cancer xenograft tumors	Disease
+BALB/c	Species
+mice	Species
+bacterial	Species
+viruses	Species
+cancer	Disease
+Breast Cancer	Disease
+Triple-negative breast cancer	Disease
+TNBC	Disease
+breast cancer	Disease
+estrogen	Chemical
+progesterone	Chemical
+human	Species
+TNBC	Disease
+TNBC	Disease
+patients	Species
+breast cancer	Disease
+patients	Species
+residual disease	Disease
+TNBC	Disease
+TNBC	Disease
+BRCA	Gene
+TNBC	Disease
+TNBC	Disease
+ROR	Gene
+tamoxifen	Chemical
+breast cancer	Disease
+PI3K	Gene
+Akt	Gene
+mTOR	Gene
+Breast cancer	Disease
+BC	Disease
+metastases	Disease
+malignancies	Disease
+large intergenic noncoding RNA-regulator of reprogramming (lincRNA-ROR	Gene
+tamoxifen	Chemical
+TAM	Chemical
+BC	Disease
+PI3K	Gene
+Akt	Gene
+mTOR	Gene
+human	Species
+BC	Disease
+BCAP-37	Gene
+BC	Disease
+BC	Disease
+patients	Species
+ROR	Gene
+lincRNA-ROR	Gene
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	Chemical
+annexin-V	Gene
+propidium iodide	Chemical
+PI3K	Gene
+Akt	Gene
+mTOR	Gene
+BC	Disease
+lincRNA-ROR	Gene
+lincRNA-ROR	Gene
+lincRNA-ROR	Gene
+TAM	Chemical
+TAM	Chemical
+MAN	Species
+PI3K	Gene
+Akt	Gene
+mTOR	Gene
+PI3K	Gene
+Akt	Gene
+mTOR	Gene
+TAM	Chemical
+lincRNA-ROR	Gene
+lincRNA-ROR	Gene
+BC	Disease
+TAM	Chemical
+P13K/A	Mutation
+Akt	Gene
+mTOR	Gene
+Bone Marrow Metastasis	Disease
+Breast Cancer	Disease
+Breast cancer	Disease
+malignancies	Disease
+metastasis	Disease
+breast cancer	Disease
+metastasis	Disease
+tumors	Disease
+breast cancer	Disease
+woman	Species
+headache	Disease
+metastasis	Disease
+estrogen	Chemical
+human	Species
+breast cancer	Disease
+primary lesion	Disease
+tamoxifen	Chemical
+Mucin 1	Gene
+MUC1	Gene
+cancer antigen 15-3	Gene
+CA 15-3	Gene
+breast cancer	Disease
+Interleukin-1b	Gene
+IL-1b	Gene
+breast cancer	Disease
+Receptor activator of nuclear factor kappa-B	Gene
+RANK	Gene
+RANKL	Gene
+tumor	Disease
+MUC1	Gene
+IL-1b	Gene
+RANKL	Gene
+patients	Species
+breast cancer	Disease
+xenografts	Species
+tumor	Disease
+cancer	Disease
+tumor	Disease
+tumor	Disease
+xenografts	Species
+tumor	Disease
+cancer	Disease
+xenografts	Species
+tumors	Disease
+patients	Species
+breast cancer	Disease
+patients	Species
+postoperative complications	Disease
+HER2	Gene
+breast cancer	Disease
+breast carcinoma	Disease
+TP53	Gene
+human	Species
+epidermal growth factor receptor	Gene
+HER2	Gene
+breast cancer	Disease
+HER2	Gene
+breast cancer	Disease
+ZJU-0327	Chemical
+ZJU-0725	Chemical
+ZJU-1127	Chemical
+invasive ductal breast carcinoma	Disease
+patients	Species
+BALB/C	Species
+mouse	Species
+xenograft	Species
+ZJU-0327	Chemical
+ZJU-0725	Chemical
+ZJU-1127	Chemical
+polyploid	Disease
+ZJU-0327	Chemical
+ZJU-1127	Chemical
+ZJU-0725	Chemical
+tumor	Disease
+tumorigenicity	Disease
+mice	Species
+HER2	Gene
+human	Species
+HER2	Gene
+breast cancer	Disease
+tumor	Disease
+HER2	Gene
+breast cancer	Disease

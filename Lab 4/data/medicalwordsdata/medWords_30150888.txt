@@ -1,0 +1,18 @@
+anthracycline	Chemical
+anthracycline	Chemical
+HER2	Gene
+breast cancers	Disease
+anthracycline	Chemical
+anthracycline	Chemical
+human	Species
+epidermal growth factor receptor 2	Gene
+HER2	Gene
+patients	Species
+women	Species
+HER2	Gene
+patients	Species
+patients	Species
+overall survival	Disease
+OS	Disease
+OS	Disease
+HER2	Gene

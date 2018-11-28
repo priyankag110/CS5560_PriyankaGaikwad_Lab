@@ -1,0 +1,15 @@
+death	Disease
+breast cancer	Disease
+patients	Species
+women	Species
+breast cancer	Disease
+death	Disease
+breast cancer	Disease
+patient	Species
+metastases	Disease
+death	Disease
+women	Species
+metastases	Disease
+death	Disease
+women	Species
+cancer	Disease

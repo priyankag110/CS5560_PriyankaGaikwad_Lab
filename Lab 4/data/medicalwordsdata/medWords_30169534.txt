@@ -1,0 +1,19 @@
+canine	Species
+Echinococcus granulosus	Species
+breast cancer	Disease
+canine	Species
+Echinococcus granulosus	Species
+humans	Species
+Larval	Species
+cancer	Disease
+human	Species
+cancers	Disease
+breast, melanoma and cervical cancer	Disease
+cancer	Disease
+cancer	Disease
+breast cancer	Disease
+BALB/c	Species
+nude mice	Species
+tumor	Disease
+mice	Species
+cancer	Disease

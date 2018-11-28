@@ -1,0 +1,19 @@
+team based prognosis and treatment goal discussion	Disease
+T-PAT	Disease
+women	Species
+advanced breast cancer	Disease
+women	Species
+advanced breast cancer	Disease
+patients	Species
+advanced breast cancer	Disease
+Patient	Species
+patients	Species
+T-PAT	Disease
+T-PAT	Disease
+participants	Species
+patient	Species
+patients	Species
+advanced breast cancer	Disease
+T-PAT	Disease
+T-PAT	Disease
+T-PAT	Disease

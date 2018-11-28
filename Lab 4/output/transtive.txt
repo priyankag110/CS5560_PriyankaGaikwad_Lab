@@ -1,0 +1,20 @@
+mastectomies,isWith,immediateBreastReconstruction
+immediateBreastReconstruction,isWith,implants
+Transtive :
+mastectomies,isWith,implants
+
+breastCancer,is,cancer
+cancer,is,treatable
+Transtive :
+breastCancer,is,treatable
+
+hypofractionatedVmat-sib,isIn,patients
+patients,isIn,ebrtGroup
+Transtive :
+hypofractionatedVmat-sib,isIn,ebrtGroup
+
+6Subtypes,isWith,distinctMolecularSignatures
+distinctMolecularSignatures,isWith,differentPrognoses
+Transtive :
+6Subtypes,isWith,differentPrognoses
+

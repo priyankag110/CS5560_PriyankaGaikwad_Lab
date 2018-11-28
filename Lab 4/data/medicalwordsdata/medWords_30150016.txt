@@ -1,0 +1,6 @@
+patient	Species
+patients	Species
+patients	Species
+patient	Species
+males	Species
+males	Species

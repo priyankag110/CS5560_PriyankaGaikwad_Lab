@@ -1,0 +1,200 @@
+tumors	Disease
+bacteriophages	Species
+cancer antigen 15-3	Gene
+mice	Species
+oxygen	Chemical
+Triple-negative breast cancer	Disease
+BALB/c	Species
+Interleukin-1b	Gene
+hormone receptor	Gene
+woman	Species
+TP53	Gene
+GPR30	Gene
+fibronectin	Gene
+breast cancer	Disease
+silica gel	Chemical
+women	Species
+headache	Disease
+post-menopausal osteoporosis	Disease
+ZO-1	Gene
+ZJU-0327	Chemical
+human	Species
+Patient	Species
+ROR	Gene
+bone loss	Disease
+sexual dysfunction	Disease
+RANK	Gene
+superoxide	Chemical
+breast cancer diagnosis	Disease
+annexin-V	Gene
+Akt	Gene
+epidermal growth factor receptor	Gene
+overall survival	Disease
+Larval	Species
+patient	Species
+SOX2	Gene
+ribociclib	Chemical
+bisphosphonate	Chemical
+breast cancers	Disease
+insulin	Gene
+cancer	Disease
+Receptor activator of nuclear factor kappa-B	Gene
+breast lesions	Disease
+Cancer	Disease
+metastatic breast cancer	Disease
+mTOR	Gene
+fulvestrant	Chemical
+IL-6	Gene
+aldehyde	Chemical
+b-catenin	Gene
+Cox	Chemical
+OCT4.3-O-p-Coumaroyltormentic acid	Chemical
+breast cancer xenograft tumors	Disease
+metastases	Disease
+cancers	Disease
+breast, melanoma and cervical cancer	Disease
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazoliumbromide	Chemical
+Patients	Species
+c-Myc	Gene
+triple-negative breast cancer	Disease
+OS	Disease
+SRB	Chemical
+early-stage breast cancer	Disease
+BALB/C	Species
+GEM	Chemical
+epidermal growth factor receptor 2	Gene
+participants	Species
+urinary lithiasis	Disease
+interleukin (IL)-6	Gene
+xenografts	Species
+ER	Gene
+ABTS	Chemical
+malignancies	Disease
+osteoporotic	Disease
+ZJU-1127	Chemical
+breast tumour	Disease
+breast lesion	Disease
+Bisphosphonate	Chemical
+bacterial	Species
+large intergenic noncoding RNA-regulator of reprogramming (lincRNA-ROR	Gene
+jaundice	Disease
+BP-na	Chemical
+postoperative complications	Disease
+ZEB-1	Gene
+invasive ductal breast carcinoma	Disease
+Fe+	Chemical
+BRCA	Gene
+Tumor	Disease
+Breast Cancer	Disease
+anthracycline	Chemical
+ESR1	Gene
+tumorigenicity	Disease
+toxicities	Disease
+C-X-C motif chemokine ligand 1	Gene
+ZJU-0725	Chemical
+sexual dysfunctions	Disease
+advanced breast cancer	Disease
+osteoporosis	Disease
+3-O-p-Coumaroyltormentic Acid	Chemical
+SOX4	Gene
+residual disease	Disease
+neutropenia	Disease
+palbociclib	Chemical
+viruses	Species
+mouse	Species
+D538G	Mutation
+Insulin	Gene
+Acute and late skin toxicities	Disease
+MMP-2	Gene
+TNBC	Disease
+IL-1b	Gene
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	Chemical
+Mucin 1	Gene
+gemcitabine	Chemical
+CD44	Gene
+cognitive decline	Disease
+tamoxifen	Chemical
+CD24	Gene
+skin toxicity	Disease
+polyploid	Disease
+P13K/A	Mutation
+RANKL	Gene
+PI3K	Gene
+CXCL1	Gene
+MMP-9	Gene
+ERb	Gene
+hepatitis	Disease
+males	Species
+breast Cancer	Disease
+Triterpene Acid	Chemical
+patients	Species
+3-(4, 5- dimethylthiazolyl-2)-2, 5-diphenyltetrazolium bromide	Chemical
+cyclin dependent kinase (CDK) 4/6	Gene
+primary lesion	Disease
+breast-cancer	Disease
+HER2 negative disease	Disease
+alendronate	Chemical
+propidium iodide	Chemical
+Echinococcus granulosus	Species
+Women	Species
+Women's personal goals	Disease
+estrogen	Chemical
+Snail	Gene
+MAN	Species
+MBC	Disease
+AKT	Gene
+fever	Disease
+S961	Chemical
+Gemcitabine	Chemical
+2'-azinobis-(3-ethylbenzothiazoline-6-sulfonic acid)	Chemical
+breast carcinoma	Disease
+cytotoxicity	Disease
+Tamoxifen	Chemical
+sulforhodamine	Chemical
+progesterone	Chemical
+tumor	Disease
+ERa	Gene
+Bone Marrow Metastasis	Disease
+metastasis	Disease
+vimentin	Gene
+reduction in breast cancer	Disease
+nude mice	Species
+xenograft	Species
+HER2	Gene
+CA 15-3	Gene
+MUC1	Gene
+canine	Species
+death	Disease
+1,1-diphenyl-2-picrylhydrazyl	Chemical
+hydroxyl	Chemical
+bisphosphonates	Chemical
+E-cadherin	Gene
+3-O-p-coumaroyltormentic acid	Chemical
+MTT	Chemical
+TAM	Chemical
+HR	Gene
+Sexual dysfunction	Disease
+everolimus	Chemical
+naringenin	Chemical
+mammary tumors	Disease
+pain	Disease
+estradiol hormone	Chemical
+Estrogen	Chemical
+team based prognosis and treatment goal discussion	Disease
+BCAP-37	Gene
+Y537S	Mutation
+Breast cancer	Disease
+N-cadherin	Gene
+Tel	Gene
+BC	Disease
+lincRNA-ROR	Gene
+oral mucositis	Disease
+DPPH	Chemical
+virus	Species
+insulin receptor	Gene
+toxicity	Disease
+humans	Species
+T-PAT	Disease
+occludin	Gene
+GSK3b	Gene
+breast pain	Disease

@@ -1,0 +1,4 @@
+women,isWith,breastCancer INVERSE TO breastCancer,leadingCauseAmong,women
+women,isWith,breastCancer INVERSE TO breastCancer,causeAmong,women
+breastCancer,leadingCauseAmong,women INVERSE TO women,isWith,breastCancer
+breastCancer,causeAmong,women INVERSE TO women,isWith,breastCancer

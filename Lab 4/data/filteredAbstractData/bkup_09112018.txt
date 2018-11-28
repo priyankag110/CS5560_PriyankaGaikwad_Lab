@@ -1,0 +1,44 @@
+<html>
+
+<head>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js" type="application/javascript"></script>
+    <script src="loginApp.js"></script>
+
+</head>
+
+<body>
+
+<div class="container">
+    <div class="jumbotron" style="color: white">
+        <h1 align="center">Knowledge Graph</h1>
+        <h2 align="center">This webpage will display nutrition details</h2>
+    </div>
+    <br/>
+</div>
+
+<div ng-app="MyHome" ng-controller="HomeCtrl" align="center">
+    <label id="labelCss">Ingredient Name: </label>
+    <input id="labelCss" type="text" name="input" ng-model="example.ingrName" ng-pattern="example.word" required ng-trim="false">
+    <button id="labelCss" ng-click="KGSearch(example.ingrName)"> Search</button>
+
+
+                <div ng-repeat="data in kgraphRecords" style="margin:0 auto;">
+        <span ng-if="data.result.image.contentUrl">
+          <div class="card" style="width: 250px;margin-left:10px;">
+            <img class="card-img-top" style="height:300px;width: 250px;" src={{data.result.image.contentUrl}} alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">{{data.result.name}}</h5>
+              <p class="card-text">{{data.result.description}}</p>
+            </div>
+          </div>
+        </span>
+                </div>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+Triterpene Acid	Chemical
+3-O-p-Coumaroyltormentic Acid	Chemical
+Cancer	Disease
+c-Myc	Gene
+Cancer	Disease
+cancer	Disease
+tumor	Disease
+cancer	Disease
+metastasis	Disease
+cancer	Disease
+silica gel	Chemical
+3-O-p-coumaroyltormentic acid	Chemical
+breast cancer	Disease
+CD44	Gene
+CD24	Gene
+aldehyde	Chemical
+CD44	Gene
+SOX2	Gene
+OCT4.3-O-p-Coumaroyltormentic acid	Chemical
+c-Myc	Gene
+c-Myc	Gene
+3-O-p-coumaroyltormentic acid	Chemical
+breast cancer	Disease
+c-Myc	Gene

@@ -1,0 +1,11 @@
+Patient	Species
+patient	Species
+patient	Species
+breast lesion	Disease
+tumor	Disease
+tumor	Disease
+breast lesions	Disease
+tumor	Disease
+tumor	Disease
+patient	Species
+breast cancer	Disease

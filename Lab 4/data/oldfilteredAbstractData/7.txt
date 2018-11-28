@@ -1,0 +1,9 @@
+To establish an injectable hydrogel encapsulating the copper sulfide (CuS) nanodots for photothermal therapy against cancer..
+The CuS nanodots were prepared by one-pot synthesis and, the thermosensitive Pluronic F127 was used as the hydrogel matrix.
+The CuS nanodots and the hydrogel were characterized by morphous, particle size, serum stability, photothermal performance upon repeated 808 nm laser irradiation as well as the rheology features.
+The effects of the CuS nanodots and the hydrogel were evaluated qualitatively and quantitatively in 4T1 mouse breast cancer cells.
+The retention, photothermal efficacy, therapeutic effects and systemic toxicity of the hydrogel were assessed in tumor bearing mouse model..
+The CuS nanodots with a diameter of about 8 nm exhibited satisfying serum stability, photo-heat conversion ability and repeated laser exposure stability.
+The hydrogel encapsulation did not negatively influence the above features of the photothermal agent.
+The nanodots loaded hydrogel shows a phase transition at body temperature and, as a result, a long retention in vivo.
+The photothermal agent embedded hydrogel played a promising photothermal therapeutic effects in tumor bearing mouse model with low systemic toxicity after peritumoral administration.

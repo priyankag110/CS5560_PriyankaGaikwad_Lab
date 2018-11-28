@@ -1,0 +1,52 @@
+ROR	Gene
+tamoxifen	Chemical
+breast cancer	Disease
+PI3K	Gene
+Akt	Gene
+mTOR	Gene
+Breast cancer	Disease
+BC	Disease
+metastases	Disease
+malignancies	Disease
+large intergenic noncoding RNA-regulator of reprogramming (lincRNA-ROR	Gene
+tamoxifen	Chemical
+TAM	Chemical
+BC	Disease
+PI3K	Gene
+Akt	Gene
+mTOR	Gene
+human	Species
+BC	Disease
+BCAP-37	Gene
+BC	Disease
+BC	Disease
+patients	Species
+ROR	Gene
+lincRNA-ROR	Gene
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide	Chemical
+annexin-V	Gene
+propidium iodide	Chemical
+PI3K	Gene
+Akt	Gene
+mTOR	Gene
+BC	Disease
+lincRNA-ROR	Gene
+lincRNA-ROR	Gene
+lincRNA-ROR	Gene
+TAM	Chemical
+TAM	Chemical
+MAN	Species
+PI3K	Gene
+Akt	Gene
+mTOR	Gene
+PI3K	Gene
+Akt	Gene
+mTOR	Gene
+TAM	Chemical
+lincRNA-ROR	Gene
+lincRNA-ROR	Gene
+BC	Disease
+TAM	Chemical
+P13K/A	Mutation
+Akt	Gene
+mTOR	Gene

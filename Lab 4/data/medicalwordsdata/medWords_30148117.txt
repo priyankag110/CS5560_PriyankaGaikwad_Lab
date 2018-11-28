@@ -1,0 +1,28 @@
+HER2	Gene
+Breast Cancer	Disease
+patients	Species
+hormone receptor	Gene
+HR	Gene
+HER2 negative disease	Disease
+breast cancer	Disease
+estrogen	Chemical
+estrogen	Chemical
+estrogen	Chemical
+cyclin dependent kinase (CDK) 4/6	Gene
+AKT	Gene
+mTOR	Gene
+HR	Gene
+breast cancer	Disease
+toxicity	Disease
+mTOR	Gene
+everolimus	Chemical
+toxicity	Disease
+patients	Species
+HR	Gene
+breast cancer	Disease
+HR	Gene
+HER2	Gene
+breast cancer	Disease
+palbociclib	Chemical
+ribociclib	Chemical
+everolimus	Chemical

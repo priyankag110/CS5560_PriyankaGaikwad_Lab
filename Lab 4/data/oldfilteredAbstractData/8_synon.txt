@@ -1,0 +1,10 @@
+receptor:alpha receptor,alpha-adrenergic receptor,alpha-adrenoceptor,alveolar bed,anlage,apodeme,aster,ball,baroreceptor,beta receptorexpressed:declared,definite,definitive,denotative,denotive,explicit,express,graphic,hard-core,hardcorein:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cdapproximately:about,around,close to,just about,more or less,or so,roughly,somehuman:anthropoid,anthropomorphic,anthropomorphous,earthborn,fallible,frail,hominal,hominian,hominid,homininebreast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstick
+
+retrospective:have:Americanise,Americanize,abound,accept,ace,acetylate,acetylise,acetylize,acquire,adaptare:acre,agate line,ar,arpent,b,barn,centare,column inch,dessiatine,emmore:many,more than,muchtolerant:broad,broad-minded,charitable,forgiving,kind,large-minded,liberal,patient,patient of,resistantchemotherapeutic:chemotherapeuticaldrug:anaesthetise,anaesthetize,anesthetise,anesthetize,base,booze,cannibalise,cannibalize,do drugs,doperesistance:Cottrell precipitator,EW,Maquis,Segway,Segway HT,Segway Human Transporter,Van de Graaff generator,Wimshurst machine,absolution,accenting
+
+known:acknowledged,best-known,better-known,celebrated,famed,familiar,famous,far-famed,glorious,identifiedas:AS,Ac,American Samoa,Ar,As,At,B,Bh,Br,Ca:A,AB,ADP,AMP,ATP,B,C,D,E,Fkind:benevolent,benign,benignant,charitable,considerate,forgiving,genial,gentle,good-hearted,good-naturedantitumour:anticancer,antineoplastic,antitumor
+
+underlying:basic,fundamental,implicit,implicit in,inexplicit,inherent,rudimentary,subjacentmechanism:Aristotelianism,Confucianism,Daoism,Kinetoscope,Neoplatonism,PTO,Platonism,Scholasticism,Stoicism,Taoismin:440 yards,880 yards,Al,Am,Ba,Be,Bi,Bk,Ca,Cdbreast:appendage,arthromere,bag,boob,bosom,caput,cervix,chest,drink,drumstickcancer:Acanthoscelides,Acherontia,Acheta,Actias,Adalia,Adelges,Aedes,African,Aleyrodes,Alsophilaneeds:inevitably,necessarily,of necessitybe:abound,accept,account,account for,act,add up,adhere,adorn,agree,amount
+
+attenuate:blunt,blur,break,castrate,collapse,cripple,cut,dampen,de-energise,de-energize
+

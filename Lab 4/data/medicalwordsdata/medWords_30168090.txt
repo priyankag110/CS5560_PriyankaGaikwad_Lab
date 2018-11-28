@@ -1,0 +1,13 @@
+breast cancer	Disease
+patients	Species
+cognitive decline	Disease
+interleukin (IL)-6	Gene
+IL-6	Gene
+breast cancer	Disease
+patients	Species
+IL-6	Gene
+IL-6	Gene
+IL-6	Gene
+breast cancer	Disease
+patients	Species
+IL-6	Gene
